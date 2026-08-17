@@ -8,7 +8,7 @@ calendar_name: "SGV & Inland Empire Chamber Events"
 #   ics_links     - decode embedded data:text/calendar links
 #   css           - configurable CSS selectors (see css_generic parser)
 # Determined by fetching each site live from GitHub Actions and inspecting
-# the actual markup - see scripts/diagnose.py / diagnose2.py.
+# the actual markup - see scripts/diagnose.py.
 sites:
   - name: Glendora Chamber of Commerce
     url: https://business.glendora-chamber.org/events/calendarcatgid/6
@@ -21,10 +21,13 @@ sites:
   - name: Irwindale Chamber of Commerce
     url: https://www.irwindalechamber.org/test-calendar
     parser: jsonld
-    # NOTE: this URL 403'd until fetchers.py used a standard browser User-
-    # Agent instead of a self-identifying one (fixed). Structure of this
-    # specific page hasn't been confirmed yet with the fixed UA - if it
-    # logs "No events found", it needs a follow-up diagnostic pass.
+    # NOTE: the original 403 was a UA block, now fixed. The calendar itself
+    # is a FullCalendar.js widget (chamberorganizer.com-powered) - confirmed
+    # via Playwright rendering that its month-grid view currently shows zero
+    # event chips at all. Either genuinely no near-term events, or a
+    # list/agenda view toggle needs to be triggered that we haven't found.
+    # harvester/fetchers.fetch_rendered_html() + `render: true` is available
+    # if this needs revisiting.
 
   - name: Ontario Chamber of Commerce (ChamberMaster)
     url: https://ontarioca.chambermaster.com/events/calendar/
@@ -37,15 +40,19 @@ sites:
   - name: American Business Association - Los Angeles (ABALA)
     url: https://www.abala.org/aba-events
     parser: jsonld
-    # NOTE: confirmed to be a Wix single-page app with zero server-rendered
-    # HTML content - no CSS/JSON-LD strategy can work here without a
-    # headless browser (e.g. Playwright). Left configured (so it's visible
-    # in logs) but will always report zero events until that's added.
+    # NOTE: Wix single-page app. Confirmed via Playwright (full JS
+    # execution, "load" + delay wait) that it STILL renders zero event
+    # markup - the "wix-events" string appears in the HTML but no visible
+    # content does, suggesting the widget lives in a Shadow DOM / Custom
+    # Element that page.content() can't see even post-render. Would need
+    # shadow-DOM-piercing extraction (e.g. page.evaluate() walking shadow
+    # roots) to go further; left configured so it stays visible in logs.
 
   - name: Inland Empire Chamber of Commerce
     url: https://www.iechamber.org/events
     parser: ics_links
-    # NOTE: this page only embeds one "next event" as an ICS data link;
-    # their full calendar actually lives on Glue Up (iercc.glueup.com) as
-    # an embedded external widget. Consider adding that as a second source
-    # for fuller coverage.
+    # NOTE: this page only embeds one "next event" as an ICS data link.
+    # Investigated Glue Up (https://iercc.glueup.com/organization/813/events/),
+    # which is their actual events platform - as of this check it lists
+    # the exact same single event, so it doesn't add coverage right now.
+    # Worth re-checking later if they start listing more events there.

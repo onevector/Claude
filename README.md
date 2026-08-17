@@ -8,13 +8,15 @@ automatically, with no per-event prompts.
 
 Sites currently configured (see `config/sites.yaml`):
 
-- Glendora Chamber of Commerce
-- Monrovia Chamber of Commerce
-- Irwindale Chamber of Commerce
-- Ontario Chamber of Commerce (ChamberMaster)
-- American Business Association - Inland Empire (ABAIE)
-- American Business Association - Los Angeles (ABALA)
-- Inland Empire Chamber of Commerce
+| Site | Status |
+|---|---|
+| Glendora Chamber of Commerce | ✅ working |
+| Monrovia Chamber of Commerce | ✅ working |
+| Ontario Chamber of Commerce (ChamberMaster) | ✅ working |
+| American Business Association - Inland Empire (ABAIE) | ✅ working |
+| Inland Empire Chamber of Commerce | ✅ working (partial — see note below) |
+| Irwindale Chamber of Commerce | ❌ not yet — see note below |
+| American Business Association - Los Angeles (ABALA) | ❌ not yet — see note below |
 
 ## How it works
 
@@ -26,12 +28,20 @@ Sites currently configured (see `config/sites.yaml`):
    per-site tuning and keeps working even if a site's page layout changes.
 3. If a site has no JSON-LD, it falls back to a configurable CSS-selector
    scraper (`parser: css` + a `css:` block in `sites.yaml` — see comments
-   in that file).
-4. All harvested events are merged, given a stable UID (hash of
+   in that file), or a site-specific parser under `harvester/parsers/` for
+   platforms whose markup needs more than selectors (GrowthZone/ChamberMaster
+   detail-page fetches, ABAIE's ASP.NET repeater, embedded `data:text/calendar`
+   links).
+4. For sites whose event data only exists after JavaScript runs (SPAs, JS-
+   injected widgets), `harvester/fetchers.fetch_rendered_html()` renders the
+   page with headless Chromium via Playwright first. Enable it per-site with
+   `render: true` in `sites.yaml` (not currently used by any site — see the
+   limitations section).
+5. All harvested events are merged, given a stable UID (hash of
    site+title+start time, so re-runs update existing calendar entries
    instead of duplicating them), and written out as one iCalendar file:
    `docs/events.ics`.
-5. A GitHub Actions workflow (`.github/workflows/harvest.yml`) runs this
+6. A GitHub Actions workflow (`.github/workflows/harvest.yml`) runs this
    automatically every night at ~2:00 AM Pacific and commits the refreshed
    `docs/events.ics` back to the repo. It can also be triggered manually
    from the Actions tab ("Run workflow").
@@ -90,6 +100,24 @@ Add calendar &rarr; Subscribe from web &rarr; paste the URL.
 - **DST**: GitHub Actions cron is UTC-only, so the 2 AM Pacific schedule
   drifts to 1 AM during Pacific Standard Time. Not adjusted for; a nightly
   refresh doesn't need to be precise to the hour.
+- **Irwindale Chamber**: not currently returning events. Its calendar is a
+  FullCalendar.js widget (chamberorganizer.com-powered); rendering it with
+  Playwright shows zero event chips in the default month-grid view. Either
+  there are genuinely no near-term events, or a list/agenda view needs to
+  be triggered that hasn't been found yet.
+- **ABALA**: not currently returning events. Confirmed to be a Wix SPA;
+  even after full Playwright rendering (JS executed, page fully loaded)
+  no event markup appears in the DOM, while the string `wix-events` does
+  appear in the page's script bundles - this points to the widget living
+  in a Shadow DOM / Custom Element, which `page.content()` can't see.
+  Reaching it would need shadow-DOM-piercing extraction (e.g.
+  `page.evaluate()` walking shadow roots from the browser side), not just
+  JS rendering.
+- **Inland Empire Chamber**: only exposes one "next event" via an embedded
+  ICS link. Their actual events platform is Glue Up
+  (`https://iercc.glueup.com/organization/813/events/`), but as of
+  investigation it lists the same single event — no extra coverage gained
+  by adding it as a second source right now. Worth re-checking later.
 - **Adding more sites**: add an entry to `config/sites.yaml`. Try
   `parser: jsonld` first; if the harvester logs "No events found" for it,
   inspect the page for an events list and add a `css:` selector block
