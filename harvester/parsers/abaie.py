@@ -27,7 +27,16 @@ def extract_abaie_events(html: str, source_url: str) -> list[dict[str, Any]]:
     for link, date_el, time_el in zip(links, start_dates, start_times):
         title = link.get_text(" ", strip=True)
         url = link.get("href") or source_url
-        date_text = date_el.get_text(" ", strip=True).removeprefix("Start").strip()
+
+        # The label preceding the date varies ("Start", "When", or no
+        # label at all) - strip whatever the label element's own text
+        # actually is, rather than assuming a fixed string.
+        date_text = date_el.get_text(" ", strip=True)
+        label_el = date_el.select_one(".eventInfoBoxLabel")
+        label_text = label_el.get_text(" ", strip=True) if label_el else ""
+        if label_text and date_text.startswith(label_text):
+            date_text = date_text[len(label_text):].strip()
+
         time_text = time_el.get_text(" ", strip=True).strip()
 
         if not title or not date_text:

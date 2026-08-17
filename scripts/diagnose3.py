@@ -45,14 +45,18 @@ def irwindale_structure() -> None:
         print(f"\n-- class={cls!r} count={count} --")
         print(el.prettify()[:1200])
 
-    # also check for JSON blobs (in case it's JS-rendered) and any <script>
-    # with obviously event-ish JSON
-    scripts = soup.find_all("script")
-    print(f"\ntotal <script> tags: {len(scripts)}")
-    for s in scripts:
-        if s.string and ("event" in s.string.lower()) and len(s.string) < 5000:
-            print("---inline script mentioning 'event'---")
-            print(s.string[:800])
+    # The "Submit Your Event" link points at chamberorganizer.com, meaning
+    # the actual calendar is very likely an embedded third-party widget
+    # (iframe or JS-injected), not part of this page's static HTML.
+    print("\niframes:")
+    for f in soup.find_all("iframe"):
+        print(f"  src={f.get('src')!r}")
+    print("\nany element referencing chamberorganizer.com:")
+    for tag in soup.find_all(True):
+        for attr in ("src", "href", "data-src"):
+            val = tag.get(attr)
+            if val and "chamberorganizer" in val:
+                print(f"  <{tag.name} {attr}={val!r}>")
 
 
 def abaie_full_debug() -> None:
