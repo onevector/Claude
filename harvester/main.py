@@ -6,7 +6,7 @@ from pathlib import Path
 
 import yaml
 
-from .fetchers import fetch_html
+from .fetchers import fetch_html, fetch_rendered_html
 from .ics_writer import write_ics
 from .models import Event
 from .parsers.abaie import extract_abaie_events
@@ -58,9 +58,10 @@ def harvest_site(site: dict) -> list[Event]:
     url = site["url"]
     parser = site.get("parser", "jsonld")
 
-    log.info("Fetching %s (%s)", name, url)
+    render = bool(site.get("render"))
+    log.info("Fetching %s (%s)%s", name, url, " [rendered]" if render else "")
     try:
-        html = fetch_html(url)
+        html = fetch_rendered_html(url) if render else fetch_html(url)
     except Exception as exc:  # noqa: BLE001 - keep other sites running
         log.error("Failed to fetch %s: %s", name, exc)
         return []

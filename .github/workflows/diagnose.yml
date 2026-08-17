@@ -15,6 +15,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
+      - run: playwright install --with-deps chromium
       - run: python scripts/diagnose.py
       - run: python scripts/diagnose2.py
       - run: python scripts/diagnose3.py
+      - run: python scripts/diagnose4.py

@@ -18,3 +18,21 @@ def fetch_html(url: str, timeout: int = 20) -> str:
     response = requests.get(url, headers=DEFAULT_HEADERS, timeout=timeout)
     response.raise_for_status()
     return response.text
+
+
+def fetch_rendered_html(url: str, timeout_ms: int = 30000, wait_ms: int = 2000) -> str:
+    """Fetch a page's HTML after executing its JavaScript, for sites whose
+    event data only exists client-side (Wix SPAs, JS-injected widgets).
+    Requires `playwright install chromium` to have been run.
+    """
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        try:
+            page = browser.new_page(user_agent=DEFAULT_HEADERS["User-Agent"])
+            page.goto(url, timeout=timeout_ms, wait_until="networkidle")
+            page.wait_for_timeout(wait_ms)
+            return page.content()
+        finally:
+            browser.close()
