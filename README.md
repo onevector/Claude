@@ -54,13 +54,13 @@ The feed needs to live at a stable public URL for calendar apps to
 subscribe to.
 
 1. In the GitHub repo: **Settings &rarr; Pages &rarr; Source: Deploy from a
-   branch &rarr; Branch: `main`, folder: `/docs`**. Save.
-2. GitHub will publish a URL like:
-   `https://onevector.github.io/Claude/events.ics`
-   (and a small instructions page at the same URL without `events.ics`).
+   branch**, then pick the branch and folder Pages should serve.
+2. Depending on which folder you pick, the feed URL is either:
+   - Branch + `/` (root): `https://onevector.github.io/Claude/docs/events.ics`
+   - Branch + `/docs`: `https://onevector.github.io/Claude/events.ics`
 
-This only needs to be done once, after this branch is merged to `main`
-(the scheduled workflow itself also only fires on the default branch).
+   This repo is currently configured for **root**, so the live URL is:
+   **`https://onevector.github.io/Claude/docs/events.ics`**
 
 ## Subscribing (one-time per calendar app, then fully automatic)
 
