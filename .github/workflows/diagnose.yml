@@ -26,3 +26,5 @@ jobs:
         continue-on-error: true
       - run: python scripts/diagnose5.py
         continue-on-error: true
+      - run: python scripts/diagnose6.py
+        continue-on-error: true

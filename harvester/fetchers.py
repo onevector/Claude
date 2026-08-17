@@ -20,10 +20,15 @@ def fetch_html(url: str, timeout: int = 20) -> str:
     return response.text
 
 
-def fetch_rendered_html(url: str, timeout_ms: int = 30000, wait_ms: int = 2000) -> str:
+def fetch_rendered_html(url: str, timeout_ms: int = 30000, wait_ms: int = 4000) -> str:
     """Fetch a page's HTML after executing its JavaScript, for sites whose
     event data only exists client-side (Wix SPAs, JS-injected widgets).
     Requires `playwright install chromium` to have been run.
+
+    Uses "load" rather than "networkidle" as the wait condition: sites with
+    continuous background network activity (analytics beacons, polling -
+    Wix does this) never reach network-idle and would just time out. A
+    fixed post-load wait covers the client-side rendering instead.
     """
     from playwright.sync_api import sync_playwright
 
@@ -31,7 +36,7 @@ def fetch_rendered_html(url: str, timeout_ms: int = 30000, wait_ms: int = 2000) 
         browser = p.chromium.launch()
         try:
             page = browser.new_page(user_agent=DEFAULT_HEADERS["User-Agent"])
-            page.goto(url, timeout=timeout_ms, wait_until="networkidle")
+            page.goto(url, timeout=timeout_ms, wait_until="load")
             page.wait_for_timeout(wait_ms)
             return page.content()
         finally:
