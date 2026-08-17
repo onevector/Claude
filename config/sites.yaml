@@ -1,0 +1,36 @@
+timezone: America/Los_Angeles
+calendar_name: "SGV & Inland Empire Chamber Events"
+
+# Every site is first scraped for schema.org JSON-LD "Event" markup (the
+# standard most event-calendar platforms, including WordPress "The Events
+# Calendar" and GrowthZone/ChamberMaster, emit for SEO / Google rich
+# results). If a site yields zero events this way, add a `css:` block below
+# it with selectors (see css_generic parser) and set `parser: css`.
+sites:
+  - name: Glendora Chamber of Commerce
+    url: https://business.glendora-chamber.org/events/calendarcatgid/6
+    parser: jsonld
+
+  - name: Monrovia Chamber of Commerce
+    url: https://www.monroviacc.com/events/calendar/
+    parser: jsonld
+
+  - name: Irwindale Chamber of Commerce
+    url: https://www.irwindalechamber.org/test-calendar
+    parser: jsonld
+
+  - name: Ontario Chamber of Commerce (ChamberMaster)
+    url: https://ontarioca.chambermaster.com/events/calendar/
+    parser: jsonld
+
+  - name: American Business Association - Inland Empire (ABAIE)
+    url: https://abaie.org/events
+    parser: jsonld
+
+  - name: American Business Association - Los Angeles (ABALA)
+    url: https://www.abala.org/aba-events
+    parser: jsonld
+
+  - name: Inland Empire Chamber of Commerce
+    url: https://www.iechamber.org/events
+    parser: jsonld
