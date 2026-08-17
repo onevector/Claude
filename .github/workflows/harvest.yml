@@ -1,6 +1,6 @@
 name: Harvest Chamber Events
 
-on:
+"on":
   schedule:
     # ~2:00 AM America/Los_Angeles (2:00 AM during PDT, 1:00 AM during PST -
     # GitHub Actions cron doesn't do DST). Good enough for a nightly refresh.
