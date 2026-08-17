@@ -17,7 +17,12 @@ jobs:
       - run: pip install -r requirements.txt
       - run: playwright install --with-deps chromium
       - run: python scripts/diagnose.py
+        continue-on-error: true
       - run: python scripts/diagnose2.py
+        continue-on-error: true
       - run: python scripts/diagnose3.py
+        continue-on-error: true
       - run: python scripts/diagnose4.py
+        continue-on-error: true
       - run: python scripts/diagnose5.py
+        continue-on-error: true

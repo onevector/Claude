@@ -87,9 +87,11 @@ def glueup_find_events_url() -> None:
 
 
 def main() -> None:
-    irwindale_fullcalendar()
-    abala_iframe_recheck()
-    glueup_find_events_url()
+    for fn in (irwindale_fullcalendar, abala_iframe_recheck, glueup_find_events_url):
+        try:
+            fn()
+        except Exception as exc:  # noqa: BLE001 - one target's failure shouldn't skip the rest
+            print(f"\n{fn.__name__} FAILED: {exc}")
 
 
 if __name__ == "__main__":
