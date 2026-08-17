@@ -9,11 +9,25 @@ import yaml
 from .fetchers import fetch_html
 from .ics_writer import write_ics
 from .models import Event
+from .parsers.abaie import extract_abaie_events
+from .parsers.chambermaster import extract_chambermaster_events
 from .parsers.css_generic import extract_css_events
+from .parsers.ics_links import extract_ics_data_uri_events
 from .parsers.jsonld import extract_json_ld_events
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 log = logging.getLogger("harvester")
+
+# Each parser takes (html, source_url) and returns a list of raw event
+# dicts (see models.Event fields). `jsonld` is tried first for every site
+# unless overridden, since it needs no per-site tuning; the rest are
+# site-specific strategies discovered by inspecting each platform's markup.
+PARSERS = {
+    "jsonld": extract_json_ld_events,
+    "chambermaster": extract_chambermaster_events,
+    "abaie": extract_abaie_events,
+    "ics_links": extract_ics_data_uri_events,
+}
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "sites.yaml"
@@ -53,12 +67,17 @@ def harvest_site(site: dict) -> list[Event]:
 
     raw_events: list[dict] = []
 
-    if parser in ("jsonld", "jsonld+css"):
-        raw_events = extract_json_ld_events(html, url)
-
-    if not raw_events and parser in ("css", "jsonld+css"):
-        css = site.get("css") or {}
-        raw_events = extract_css_events(html, url, css)
+    if parser == "css":
+        raw_events = extract_css_events(html, url, site.get("css") or {})
+    elif parser in PARSERS:
+        raw_events = PARSERS[parser](html, url)
+        # Optional per-site CSS fallback if the primary parser strategy
+        # comes up empty (e.g. a platform migration breaks it).
+        if not raw_events and site.get("css"):
+            raw_events = extract_css_events(html, url, site["css"])
+    else:
+        log.error("Unknown parser %r for %s; skipping.", parser, name)
+        return []
 
     if not raw_events:
         log.warning("No events found for %s. Diagnostics: %s", name, diagnose(html))

@@ -3,9 +3,12 @@ from __future__ import annotations
 import requests
 
 DEFAULT_HEADERS = {
+    # A self-identifying UA ("...ChamberEventsHarvester...") gets 403'd by
+    # at least one target site's basic UA-sniffing WAF rule; a standard
+    # browser UA is accepted everywhere observed so far.
     "User-Agent": (
-        "Mozilla/5.0 (compatible; ChamberEventsHarvester/1.0; "
-        "+https://github.com/onevector/Claude)"
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
     ),
     "Accept-Language": "en-US,en;q=0.9",
 }

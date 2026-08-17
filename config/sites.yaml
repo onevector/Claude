@@ -1,36 +1,51 @@
 timezone: America/Los_Angeles
 calendar_name: "SGV & Inland Empire Chamber Events"
 
-# Every site is first scraped for schema.org JSON-LD "Event" markup (the
-# standard most event-calendar platforms, including WordPress "The Events
-# Calendar" and GrowthZone/ChamberMaster, emit for SEO / Google rich
-# results). If a site yields zero events this way, add a `css:` block below
-# it with selectors (see css_generic parser) and set `parser: css`.
+# parser strategies (see harvester/parsers/):
+#   jsonld        - schema.org Event JSON-LD (needs no per-site tuning)
+#   chambermaster - GrowthZone/ChamberMaster calendar grid + detail pages
+#   abaie         - ABAIE's specific ASP.NET upcoming-events widget
+#   ics_links     - decode embedded data:text/calendar links
+#   css           - configurable CSS selectors (see css_generic parser)
+# Determined by fetching each site live from GitHub Actions and inspecting
+# the actual markup - see scripts/diagnose.py / diagnose2.py.
 sites:
   - name: Glendora Chamber of Commerce
     url: https://business.glendora-chamber.org/events/calendarcatgid/6
-    parser: jsonld
+    parser: chambermaster
 
   - name: Monrovia Chamber of Commerce
     url: https://www.monroviacc.com/events/calendar/
-    parser: jsonld
+    parser: chambermaster
 
   - name: Irwindale Chamber of Commerce
     url: https://www.irwindalechamber.org/test-calendar
     parser: jsonld
+    # NOTE: this URL 403'd until fetchers.py used a standard browser User-
+    # Agent instead of a self-identifying one (fixed). Structure of this
+    # specific page hasn't been confirmed yet with the fixed UA - if it
+    # logs "No events found", it needs a follow-up diagnostic pass.
 
   - name: Ontario Chamber of Commerce (ChamberMaster)
     url: https://ontarioca.chambermaster.com/events/calendar/
-    parser: jsonld
+    parser: chambermaster
 
   - name: American Business Association - Inland Empire (ABAIE)
     url: https://abaie.org/events
-    parser: jsonld
+    parser: abaie
 
   - name: American Business Association - Los Angeles (ABALA)
     url: https://www.abala.org/aba-events
     parser: jsonld
+    # NOTE: confirmed to be a Wix single-page app with zero server-rendered
+    # HTML content - no CSS/JSON-LD strategy can work here without a
+    # headless browser (e.g. Playwright). Left configured (so it's visible
+    # in logs) but will always report zero events until that's added.
 
   - name: Inland Empire Chamber of Commerce
     url: https://www.iechamber.org/events
-    parser: jsonld
+    parser: ics_links
+    # NOTE: this page only embeds one "next event" as an ICS data link;
+    # their full calendar actually lives on Glue Up (iercc.glueup.com) as
+    # an embedded external widget. Consider adding that as a second source
+    # for fuller coverage.
