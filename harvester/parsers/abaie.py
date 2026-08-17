@@ -38,11 +38,15 @@ def extract_abaie_events(html: str, source_url: str) -> list[dict[str, Any]]:
             date_text = date_text[len(label_text):].strip()
 
         time_text = time_el.get_text(" ", strip=True).strip()
+        # time_text may be a single time ("6:00 PM"), a range
+        # ("8:00 AM - 1:00 PM"), or empty (all-day).
+        start_time_text, _, end_time_text = time_text.partition(" - ")
 
         if not title or not date_text:
             continue
         try:
-            start = dateparser.parse(f"{date_text} {time_text}".strip())
+            start = dateparser.parse(f"{date_text} {start_time_text}".strip())
+            end = dateparser.parse(f"{date_text} {end_time_text}".strip()) if end_time_text else None
         except (ValueError, TypeError, OverflowError):
             continue
 
@@ -50,7 +54,7 @@ def extract_abaie_events(html: str, source_url: str) -> list[dict[str, Any]]:
             {
                 "title": title,
                 "start": start,
-                "end": None,
+                "end": end,
                 "all_day": not time_text,
                 "location": None,
                 "description": None,
