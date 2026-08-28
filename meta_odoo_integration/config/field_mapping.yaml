@@ -1,0 +1,24 @@
+# Maps Meta Lead Ads form field names (the "name" in each field_data entry
+# Meta returns) to Odoo crm.lead fields.
+#
+# Only direct, single-value string fields belong here. Anything not listed
+# is never dropped - it still gets appended to the lead's description so no
+# data is lost, it just won't land in a structured field until you map it.
+#
+# Common Meta field names (they vary per form - check your actual form's
+# fields in Meta Ads Manager -> your Lead form -> Field name column):
+full_name: contact_name
+first_name: contact_name
+last_name: contact_name
+email: email_from
+phone_number: phone
+company_name: partner_name
+job_title: function
+city: city
+post_code: zip
+street_address: street
+
+# Odoo field used to store Meta's lead ID for traceability (shows up on the
+# lead's Description). This does NOT require a custom Odoo field - it's
+# just folded into the notes text. Idempotency itself is handled by the
+# service's local store (data/processed_leads.sqlite3), not this field.

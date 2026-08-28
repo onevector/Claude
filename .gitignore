@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 venv/
 *.egg-info/
+.env
+meta_odoo_integration/data/
+.pytest_cache/
