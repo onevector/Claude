@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Ontario City Council
 DTSTART;TZID=America/Los_Angeles:20260901T183000
 DTEND;TZID=America/Los_Angeles:20260901T200000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:939b6070c5ebdf2baeaddbbce06ba2bb09398007@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 LOCATION:City Council Chamber 303 East B Street Ontario\, CA United States
@@ -21,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Good Morning Ontario
 DTSTART;TZID=America/Los_Angeles:20260902T073000
 DTEND;TZID=America/Los_Angeles:20260902T090000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:b87d7a4ad53617f43299a7d2b818e6db35420f0a@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 LOCATION:USO 1940 E. Moore Way\, West Wing Ontario\, CA 91761
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20260902T080000
 DTEND;TZID=America/Los_Angeles:20260902T090000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:609f5944af5ae68e39595c54e8b6166cd9673dd3@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Chamber Office 620 S. Myrtle Ave. Monrovia\, CA 91016
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20260902T090000
 DTEND;TZID=America/Los_Angeles:20260902T101500
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:549e78b53559411cafd13637762662e499d407c1@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Glendora Chamber of Commerce 224 N Glendora Ave\, Glendora\, CA 9
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Social-805 Highland Boutique
 DTSTART;TZID=America/Los_Angeles:20260903T083000
 DTEND;TZID=America/Los_Angeles:20260903T100000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:bae1abf42addf816874f4d0d3c3df30c19a801a3@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:805 Highland Boutique 505 S. Myrtle Ave. Monrovia\, CA 91016
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Opening-Rude Jerk Jamaican Kitchen
 DTSTART;TZID=America/Los_Angeles:20260903T113000
 DTEND;TZID=America/Los_Angeles:20260903T123000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:bf15a08a467bbcb58767354d38adc3c8f63f2246@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 LOCATION:Rude Jerk Jamaican Kitchen 4323 Mills Circle Rd #102 Ontario\, CA
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20260903T120000
 DTEND;TZID=America/Los_Angeles:20260903T133000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:b1020f1894fc5d6fd7e001c81d8ce1d3d74b87e5@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Americas Christian Credit Union (2100 E Rte 66\, Glendora\, CA  
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Friday But First... Coffee Mixer
 DTSTART;TZID=America/Los_Angeles:20260904T080000
 DTEND;TZID=America/Los_Angeles:20260904T090000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:5935abcaac17f771ab4e3e7ebdd64c472b5ccebc@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Kirk Warner Insurance 137 N Glendora Ave
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Government Affairs Meeting
 DTSTART;TZID=America/Los_Angeles:20260908T080000
 DTEND;TZID=America/Los_Angeles:20260908T090000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:a8700e34a7dc895ed5f6b0124523ca463254993c@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Chamber Office and/or Zoom
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Monthly ABAIE Board Meeting
 DTSTART;TZID=America/Los_Angeles:20260908T180000
 DTEND;TZID=America/Los_Angeles:20260908T190000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:c9ebc9fd67a7c63557f982f181484ef034d5634f@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6440670
@@ -121,27 +121,27 @@ BEGIN:VEVENT
 SUMMARY:EBPA’s State of the Benefits Industry
 DTSTART;TZID=America/Los_Angeles:20260909T080000
 DTEND;TZID=America/Los_Angeles:20260909T120000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:d028df70d408f802e2c8d84948eb0d0c211030f7@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6814679
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chamber Networking Lunch-TBD
+SUMMARY:Chamber Networking Lunch-Cafe Mundial
 DTSTART;TZID=America/Los_Angeles:20260909T120000
 DTEND;TZID=America/Los_Angeles:20260909T133000
-DTSTAMP:20260901T135319Z
-UID:5a22080be225e31c25869936599a1639561c04f0@chamber-events-harvester
+DTSTAMP:20260902T131153Z
+UID:95e8637a1156b433bfa11f045a170fc5cea4c254@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
-LOCATION:TBD
-URL:https://www.monroviacc.com/events/details/chamber-networking-lunch-tbd
- -09-09-2026-3343
+LOCATION:Cafe Mundial 514 S. Myrtle Ave. Monrovia\, CA 91016
+URL:https://www.monroviacc.com/events/details/chamber-networking-lunch-caf
+ e-mundial-3343
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sponsorship and Grant Committee
 DTSTART;TZID=America/Los_Angeles:20260909T163000
 DTEND;TZID=America/Los_Angeles:20260909T180000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:da3b5ae548d9f2a2570a9e71a26fd21863c6714f@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6819268
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Monthly Lunch Mixer
 DTSTART;TZID=America/Los_Angeles:20260910T113000
 DTEND;TZID=America/Los_Angeles:20260910T130000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:5ead4fb1d5edfc6b52b12c1c10916a60ef6e4187@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Maria's Mexican Restaurant 457 W Foothill Blvd
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Opening-KHASHAN LAW FIRM
 DTSTART;TZID=America/Los_Angeles:20260910T113000
 DTEND;TZID=America/Los_Angeles:20260910T123000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:dc2e6bc62a8e60b5b2f2bd947f6654af60bc018c@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 LOCATION:KHASHAN LAW FIRM 746 N. Mountain Ave. Ontario\, CA Thursday\, Sep
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Executive Board Meeting
 DTSTART;TZID=America/Los_Angeles:20260914T160000
 DTEND;TZID=America/Los_Angeles:20260914T163000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:673d04b5b82ce567505b64d50a88d67cb185269e@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Zoom
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Candidate Forum - Glendora City Council
 DTSTART;TZID=America/Los_Angeles:20260914T180000
 DTEND;TZID=America/Los_Angeles:20260914T200000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:67e1b4cb4375b7f46cc3ed897f34ea13c132ce3e@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Bidwell Forum 140 S Glendora Ave. Glendora\, CA 91741 140 S Glend
@@ -193,10 +193,21 @@ URL:https://business.glendora-chamber.org/events/details/candidate-forum-g
  lendora-city-council-18635
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:City of Glendora Special Meeting #3 - Facilities
+DTSTART;TZID=America/Los_Angeles:20260915T180000
+DTEND;TZID=America/Los_Angeles:20260915T200000
+DTSTAMP:20260902T131153Z
+UID:98d71e0d9dcae9ad427811c733a4b376ea5d0da1@chamber-events-harvester
+CATEGORIES:Glendora Chamber of Commerce
+LOCATION:Bidwell Forum
+URL:https://business.glendora-chamber.org/events/details/city-of-glendora-
+ special-meeting-3-facilities-18664
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20260916T073000
 DTEND;TZID=America/Los_Angeles:20260916T090000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:273ecb261fa346cb2bc93b8cb17d194ba04853f4@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 URL:https://business.glendora-chamber.org/events/details/glendora-chamber-
@@ -206,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Don’t Leave Money on the Table!
 DTSTART;TZID=America/Los_Angeles:20260916T173000
 DTEND;TZID=America/Los_Angeles:20260916T200000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:4351eca2330a3d3df40c0ca2515c9dcf6b1d5ea3@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6813981
@@ -215,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Candidate Forum - Glendora City Council
 DTSTART;TZID=America/Los_Angeles:20260916T180000
 DTEND;TZID=America/Los_Angeles:20260916T200000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:7ae5b27c7df72238efd806ef0d855debc72ab1f2@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Bidwell Forum 140 S Glendora Ave. Glendora\, CA 91741 140 S Glend
@@ -227,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Good Morning Corona - Honoring Police & Fire
 DTSTART;TZID=America/Los_Angeles:20260917T070000
 DTEND;TZID=America/Los_Angeles:20260917T083000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:485172e542d182781d4907550a6ba7d22e8d70d2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6814618
@@ -236,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Multi-Chamber Morning Mingle-Max's Mexican Cuisine
 DTSTART;TZID=America/Los_Angeles:20260917T073000
 DTEND;TZID=America/Los_Angeles:20260917T093000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:0ed30c73e9610de1d0eacae6b1e8e29c4184c990@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Max's Mexican Cuisine 1101 Huntington Drive Monrovia\, CA 91016
@@ -247,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Pancakes & Politics-Overview of Ballot Measures
 DTSTART;TZID=America/Los_Angeles:20260917T073000
 DTEND;TZID=America/Los_Angeles:20260917T093000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:fa67561a469f70f7e8fd06633eb40676d8af7f08@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 LOCATION:DoubleTree Hotel 222 N. Vineyard Ave. Ontario\, CA.
@@ -258,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:FREE Tire Recycling Event
 DTSTART;TZID=America/Los_Angeles:20260919T090000
 DTEND;TZID=America/Los_Angeles:20260919T150000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:d5b4e14a48b1c2108198539d2ade5709a3051a92@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Citrus College\, Parking Lot S6 1000 W. Foothill Blvd. Glendora\,
@@ -270,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Board of Directors Monthly Meeting
 DTSTART;TZID=America/Los_Angeles:20260923T120000
 DTEND;TZID=America/Los_Angeles:20260923T133000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:8b7c847eb8c7425a186c7822d1e46e86465b723b@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Monrovia Chamber Office 620 S. Myrtle Ave.\, Monrovia\, CA 91016
@@ -281,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Board Meeting
 DTSTART;TZID=America/Los_Angeles:20260923T160000
 DTEND;TZID=America/Los_Angeles:20260923T170000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:bf32cf0aab0ecc3868fab9144b1843335ebe1b05@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 LOCATION:Greater Ontario Business Council 3200 Inland Empire Blvd #130 Ont
@@ -293,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Joint Chamber Ribbon Cutting-The Dog Zone
 DTSTART;TZID=America/Los_Angeles:20260923T163000
 DTEND;TZID=America/Los_Angeles:20260923T173000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:68d35871d1f1ff07b4ea2ba244a26306905bacb4@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:The Dog Zone 150 W. Foothill Blvd. Monrovia\, CA 91016
@@ -304,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Monrovia Community Adult School Job Fair
 DTSTART;TZID=America/Los_Angeles:20260924T100000
 DTEND;TZID=America/Los_Angeles:20260924T130000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:8b514e93e76059c434cc27c443a90e4bae51e24d@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Monrovia Community Adult School 920 S. Mountain Ave. Monrovia\, C
@@ -316,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Monrovia Chamber Evening Mixer-Barnhart School
 DTSTART;TZID=America/Los_Angeles:20260924T170000
 DTEND;TZID=America/Los_Angeles:20260924T190000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:a6079c80e3bbf76014ddf79682b9a283d5a491f7@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 LOCATION:Barnhart School 240 Colorado Blvd. Arcadia\, CA 91007
@@ -327,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - September in Corona
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T113000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:bea35829f7e8d58abea0cd62c3466bb3937cf935@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6813944
@@ -336,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Women of Business- Relax\, Recharge & Sleep Better
 DTSTART;TZID=America/Los_Angeles:20260929T180000
 DTEND;TZID=America/Los_Angeles:20260929T200000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:1719b01e4cc300e82ad95b650d82e479ed9e8f47@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 LOCATION:Sleep Better Center 1000 E Rte 66 Ste P\, Glendora\, CA 91740
@@ -347,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:5th Annual Port of Long Beach Business Tour
 DTSTART;TZID=America/Los_Angeles:20261007T190000
 DTEND;TZID=America/Los_Angeles:20261007T220000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:5e8cf2b37feadc11373701e23e8f9f1c17ae204e@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:5th Annual Port of Long Beach Business Tour | Connecting the I
@@ -359,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261013T180000
 DTEND;TZID=America/Los_Angeles:20261013T190000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:1b425aca666b73d9853ed19880ab7c030ea61d21@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6811586
@@ -368,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - October
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:25a2f2af9ad9d2023bc92b295e04cdde2627e8e2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6819279
@@ -377,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T190000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:321dc7a5e3a11a3952871dd6451b62c9c12218ef@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6811588
@@ -386,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261208T180000
 DTEND;TZID=America/Los_Angeles:20261208T190000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:3f6fdd6ba82c6f1c941443fe5b263b98fddef80e@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6811590
@@ -395,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:JHBC Career & Internship Fair
 DTSTART;TZID=America/Los_Angeles:20270302T120000
 DTEND;TZID=America/Los_Angeles:20270302T150000
-DTSTAMP:20260901T135319Z
+DTSTAMP:20260902T131153Z
 UID:f2e3811a2df57e13709a891e05162468e04621bf@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 URL:https://abaie.org/event-6802616
