@@ -18,3 +18,4 @@ jobs:
       - run: python scripts/diagnose.py
       - run: python scripts/diagnose_organizer.py
       - run: python scripts/diagnose_recheck.py
+      - run: python scripts/diagnose_glendora2.py
