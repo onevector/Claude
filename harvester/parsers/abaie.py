@@ -5,12 +5,35 @@ from typing import Any
 from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
+from ..fetchers import fetch_html
+
 # ABAIE's upcoming-events widget renders three parallel lists
 # (.eventDetailsLink, .eventInfoStartDate, .eventInfoStartTime) that are
 # not nested under a shared container in the DOM, but all come from the
 # same ASP.NET Repeater ("UpcomingEventsRepeater") bound to one ordered
 # data source, so pairing them by position is reliable as long as the
 # three lists have equal length (guarded below).
+#
+# The summary widget has no location at all - each event's own detail
+# page (linked by .eventDetailsLink) has it under .eventInfoLocation,
+# e.g. "Location 9495 East 9th Street Unit B, Rancho Cucamonga, CA 91730".
+
+
+def _fetch_location(detail_url: str) -> str | None:
+    try:
+        detail_html = fetch_html(detail_url)
+    except Exception:  # noqa: BLE001 - a missing location shouldn't sink the event
+        return None
+    detail_soup = BeautifulSoup(detail_html, "html.parser")
+    loc_el = detail_soup.select_one(".eventInfoLocation")
+    if loc_el is None:
+        return None
+    text = loc_el.get_text(" ", strip=True)
+    label_el = loc_el.select_one(".eventInfoBoxLabel")
+    label_text = label_el.get_text(" ", strip=True) if label_el else ""
+    if label_text and text.startswith(label_text):
+        text = text[len(label_text):].strip()
+    return text or None
 
 
 def extract_abaie_events(html: str, source_url: str) -> list[dict[str, Any]]:
@@ -56,7 +79,7 @@ def extract_abaie_events(html: str, source_url: str) -> list[dict[str, Any]]:
                 "start": start,
                 "end": end,
                 "all_day": not time_text,
-                "location": None,
+                "location": _fetch_location(url) if url and url != source_url else None,
                 "description": None,
                 "url": url,
             }

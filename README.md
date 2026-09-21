@@ -6,6 +6,11 @@ websites and publishes them as a single subscribable calendar feed
 Calendar, Apple Calendar, or Outlook once and have it stay up to date
 automatically, with no per-event prompts.
 
+Every event gets a title, start/end time, location, a link back to the
+original event page (for full details / sign-up), and an organizer name
+(falls back to the hosting chamber itself when no more specific one is
+found on the page).
+
 Sites currently configured (see `config/sites.yaml`):
 
 | Site | Status |
@@ -113,11 +118,17 @@ Add calendar &rarr; Subscribe from web &rarr; paste the URL.
   Reaching it would need shadow-DOM-piercing extraction (e.g.
   `page.evaluate()` walking shadow roots from the browser side), not just
   JS rendering.
-- **Inland Empire Chamber**: only exposes one "next event" via an embedded
-  ICS link. Their actual events platform is Glue Up
-  (`https://iercc.glueup.com/organization/813/events/`), but as of
-  investigation it lists the same single event — no extra coverage gained
-  by adding it as a second source right now. Worth re-checking later.
+- **Inland Empire Chamber**: now uses `harvester/parsers/iechamber.py`,
+  which reads the site's embedded Glue Up event list (`.event-row`) for
+  a real per-event URL, venue and date/time on every listed event, not
+  just the single one previously exposed via an embedded ICS link
+  (`harvester/parsers/ics_links.py`, kept for other future sites that
+  embed that pattern without a richer listing alongside it).
+- **Glendora Chamber**: their old calendar URL (`/events/calendarcatgid/6`)
+  started 404ing after a GrowthZone platform migration to a new card-based
+  template; `sites.yaml` now points at the new listing URL (`/events`),
+  and `harvester/parsers/chambermaster.py` detects and handles both the
+  old (Monrovia/Ontario) and new (Glendora) template generations.
 - **Adding more sites**: add an entry to `config/sites.yaml`. Try
   `parser: jsonld` first; if the harvester logs "No events found" for it,
   inspect the page for an events list and add a `css:` selector block

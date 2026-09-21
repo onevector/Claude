@@ -46,6 +46,12 @@ def extract_ics_data_uri_events(html: str, source_url: str) -> list[dict[str, An
             dtend = component.get("dtend")
             all_day = not isinstance(dtstart.dt, datetime)
 
+            organizer_prop = component.get("organizer")
+            organizer = None
+            if organizer_prop is not None:
+                cn = organizer_prop.params.get("CN") if hasattr(organizer_prop, "params") else None
+                organizer = str(cn).strip() if cn else str(organizer_prop).removeprefix("mailto:").strip()
+
             events.append(
                 {
                     "title": summary,
@@ -53,6 +59,7 @@ def extract_ics_data_uri_events(html: str, source_url: str) -> list[dict[str, An
                     "end": _as_datetime(dtend.dt) if dtend else None,
                     "all_day": all_day,
                     "location": str(location).strip() if location else None,
+                    "organizer": organizer or None,
                     "description": str(description).strip() if description else None,
                     "url": source_url,
                 }

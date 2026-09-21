@@ -3,16 +3,22 @@ calendar_name: "SGV & Inland Empire Chamber Events"
 
 # parser strategies (see harvester/parsers/):
 #   jsonld        - schema.org Event JSON-LD (needs no per-site tuning)
-#   chambermaster - GrowthZone/ChamberMaster calendar grid + detail pages
+#   chambermaster - GrowthZone/ChamberMaster - handles both the old
+#                   calendar-grid template and the newer card-based one
 #   abaie         - ABAIE's specific ASP.NET upcoming-events widget
 #   ics_links     - decode embedded data:text/calendar links
+#   iechamber     - Inland Empire Chamber's embedded Glue Up event list
 #   css           - configurable CSS selectors (see css_generic parser)
 # Determined by fetching each site live from GitHub Actions and inspecting
 # the actual markup - see scripts/diagnose.py.
 sites:
   - name: Glendora Chamber of Commerce
-    url: https://business.glendora-chamber.org/events/calendarcatgid/6
+    url: https://business.glendora-chamber.org/events
     parser: chambermaster
+    # NOTE (2026-09-21): the old /events/calendarcatgid/6 URL now 404s -
+    # GrowthZone migrated this site to a new card-based template. Updated
+    # to the new listing URL; harvester/parsers/chambermaster.py handles
+    # both templates automatically based on which markup it finds.
 
   - name: Monrovia Chamber of Commerce
     url: https://www.monroviacc.com/events/calendar/
@@ -50,9 +56,9 @@ sites:
 
   - name: Inland Empire Chamber of Commerce
     url: https://www.iechamber.org/events
-    parser: ics_links
-    # NOTE: this page only embeds one "next event" as an ICS data link.
-    # Investigated Glue Up (https://iercc.glueup.com/organization/813/events/),
-    # which is their actual events platform - as of this check it lists
-    # the exact same single event, so it doesn't add coverage right now.
-    # Worth re-checking later if they start listing more events there.
+    parser: iechamber
+    # NOTE (2026-09-21): this page now embeds a proper Glue Up event list
+    # (.event-row) with real per-event Glue Up URLs and venue names for
+    # every upcoming event, not just one via a data:text/calendar link
+    # (that's still available too, see harvester/parsers/ics_links.py, but
+    # this parser gets more/better data from the same page).

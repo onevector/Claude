@@ -13,6 +13,7 @@ class Event:
     end: datetime | None = None
     all_day: bool = False
     location: str | None = None
+    organizer: str | None = None
     description: str | None = None
     url: str | None = None
 

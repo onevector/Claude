@@ -87,9 +87,23 @@ def _node_to_event(node: dict[str, Any], source_url: str) -> dict[str, Any] | No
         "end": end,
         "all_day": all_day,
         "location": _location_to_str(node.get("location")),
+        "organizer": _organizer_to_str(node.get("organizer")),
         "description": description,
         "url": url,
     }
+
+
+def _organizer_to_str(organizer: Any) -> str | None:
+    if organizer is None:
+        return None
+    if isinstance(organizer, list):
+        organizer = organizer[0] if organizer else None
+    if isinstance(organizer, str):
+        return organizer.strip() or None
+    if isinstance(organizer, dict):
+        name = organizer.get("name")
+        return name.strip() if isinstance(name, str) and name.strip() else None
+    return None
 
 
 def _location_to_str(location: Any) -> str | None:

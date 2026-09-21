@@ -6,7 +6,7 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 from icalendar import Event as ICalEvent
-from icalendar import vText
+from icalendar import vCalAddress, vText
 
 from .models import Event
 
@@ -63,8 +63,21 @@ def write_ics(
 
         if event.location:
             ve.add("location", vText(event.location))
-        if event.description:
-            ve.add("description", vText(event.description))
+
+        description = event.description
+        if event.organizer:
+            # ORGANIZER isn't prominently shown by most calendar apps for a
+            # subscribed (non-invite) feed, so also fold it into the
+            # description text, which always displays.
+            organizer_line = f"Organized by: {event.organizer}"
+            description = f"{organizer_line}\n\n{description}" if description else organizer_line
+
+            organizer_addr = vCalAddress("mailto:noreply@chamber-events-harvester.invalid")
+            organizer_addr.params["cn"] = event.organizer
+            ve.add("organizer", organizer_addr)
+
+        if description:
+            ve.add("description", vText(description))
         if event.url:
             ve.add("url", event.url)
         ve.add("categories", [event.source])

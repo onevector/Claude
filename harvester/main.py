@@ -13,6 +13,7 @@ from .parsers.abaie import extract_abaie_events
 from .parsers.chambermaster import extract_chambermaster_events
 from .parsers.css_generic import extract_css_events
 from .parsers.ics_links import extract_ics_data_uri_events
+from .parsers.iechamber import extract_iechamber_events
 from .parsers.jsonld import extract_json_ld_events
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
@@ -27,6 +28,7 @@ PARSERS = {
     "chambermaster": extract_chambermaster_events,
     "abaie": extract_abaie_events,
     "ics_links": extract_ics_data_uri_events,
+    "iechamber": extract_iechamber_events,
 }
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -85,6 +87,12 @@ def harvest_site(site: dict) -> list[Event]:
         return []
 
     events = [Event(source=name, **raw) for raw in raw_events]
+    for event in events:
+        # Every event should show *some* organizer - fall back to the
+        # hosting chamber/association itself when a parser didn't find a
+        # more specific one (e.g. schema.org Event.organizer.name).
+        if not event.organizer:
+            event.organizer = name
     log.info("Found %d event(s) for %s", len(events), name)
     return events
 
