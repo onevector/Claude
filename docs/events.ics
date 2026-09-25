@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Ontario City Council
 DTSTART;TZID=America/Los_Angeles:20260901T183000
 DTEND;TZID=America/Los_Angeles:20260901T200000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:939b6070c5ebdf2baeaddbbce06ba2bb09398007@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Good Morning Ontario
 DTSTART;TZID=America/Los_Angeles:20260902T073000
 DTEND;TZID=America/Los_Angeles:20260902T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:b87d7a4ad53617f43299a7d2b818e6db35420f0a@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20260902T080000
 DTEND;TZID=America/Los_Angeles:20260902T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:609f5944af5ae68e39595c54e8b6166cd9673dd3@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Social-805 Highland Boutique
 DTSTART;TZID=America/Los_Angeles:20260903T083000
 DTEND;TZID=America/Los_Angeles:20260903T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:bae1abf42addf816874f4d0d3c3df30c19a801a3@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Opening-Rude Jerk Jamaican Kitchen
 DTSTART;TZID=America/Los_Angeles:20260903T113000
 DTEND;TZID=America/Los_Angeles:20260903T123000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:bf15a08a467bbcb58767354d38adc3c8f63f2246@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Government Affairs Meeting
 DTSTART;TZID=America/Los_Angeles:20260908T080000
 DTEND;TZID=America/Los_Angeles:20260908T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a8700e34a7dc895ed5f6b0124523ca463254993c@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Chamber Networking Lunch-Cafe Mundial
 DTSTART;TZID=America/Los_Angeles:20260909T120000
 DTEND;TZID=America/Los_Angeles:20260909T133000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:95e8637a1156b433bfa11f045a170fc5cea4c254@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Opening-KHASHAN LAW FIRM
 DTSTART;TZID=America/Los_Angeles:20260910T113000
 DTEND;TZID=America/Los_Angeles:20260910T123000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:dc2e6bc62a8e60b5b2f2bd947f6654af60bc018c@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Executive Board Meeting
 DTSTART;TZID=America/Los_Angeles:20260914T160000
 DTEND;TZID=America/Los_Angeles:20260914T163000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:673d04b5b82ce567505b64d50a88d67cb185269e@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Multi-Chamber Morning Mingle-Max's Mexican Cuisine
 DTSTART;TZID=America/Los_Angeles:20260917T073000
 DTEND;TZID=America/Los_Angeles:20260917T093000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:0ed30c73e9610de1d0eacae6b1e8e29c4184c990@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Pancakes & Politics-Overview of Ballot Measures
 DTSTART;TZID=America/Los_Angeles:20260917T073000
 DTEND;TZID=America/Los_Angeles:20260917T093000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:fa67561a469f70f7e8fd06633eb40676d8af7f08@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Taste of Arcadia
 DTSTART;TZID=America/Los_Angeles:20260919T140000
 DTEND;TZID=America/Los_Angeles:20260919T180000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:0c9687736052db6b66266430b1d50e59f7f64f97@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Rotary Club of Monrovia-Casino Night & Speakeasy
 DTSTART;TZID=America/Los_Angeles:20260919T180000
 DTEND;TZID=America/Los_Angeles:20260919T220000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:91f924d7d0365057df6c9a27ee4ba095ec872097@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Board of Directors Monthly Meeting
 DTSTART;TZID=America/Los_Angeles:20260923T120000
 DTEND;TZID=America/Los_Angeles:20260923T133000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:8b7c847eb8c7425a186c7822d1e46e86465b723b@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Board Meeting
 DTSTART;TZID=America/Los_Angeles:20260923T160000
 DTEND;TZID=America/Los_Angeles:20260923T170000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:bf32cf0aab0ecc3868fab9144b1843335ebe1b05@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -224,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:Joint Chamber Ribbon Cutting-The Dog Zone
 DTSTART;TZID=America/Los_Angeles:20260923T163000
 DTEND;TZID=America/Los_Angeles:20260923T173000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:68d35871d1f1ff07b4ea2ba244a26306905bacb4@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Monrovia Community Adult School Job Fair
 DTSTART;TZID=America/Los_Angeles:20260924T100000
 DTEND;TZID=America/Los_Angeles:20260924T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:8b514e93e76059c434cc27c443a90e4bae51e24d@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -250,24 +250,10 @@ URL:https://www.monroviacc.com/events/details/monrovia-community-adult-sch
  ool-job-fair-4013
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Business Beyond Borders
-DTSTART;TZID=America/Los_Angeles:20260924T140000
-DTEND;TZID=America/Los_Angeles:20260924T190000
-DTSTAMP:20260924T135855Z
-UID:5b01e3c6dd2f2d49b4a5f1fb8d66262b32676a81@chamber-events-harvester
-CATEGORIES:American Business Association - Inland Empire (ABAIE)
-DESCRIPTION:Organized by: American Business Association - Inland Empire (A
- BAIE)
-LOCATION:1940 E. Moore Way\, Ontario\, CA 91761
-ORGANIZER;CN="American Business Association - Inland Empire (ABAIE)":mailt
- o:noreply@chamber-events-harvester.invalid
-URL:https://abaie.org/event-6829806
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monrovia Chamber Evening Mixer-Barnhart School
 DTSTART;TZID=America/Los_Angeles:20260924T170000
 DTEND;TZID=America/Los_Angeles:20260924T190000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a6079c80e3bbf76014ddf79682b9a283d5a491f7@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -281,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Pop-Up Coffee Social-The Arthur Blair Historic Inn
 DTSTART;TZID=America/Los_Angeles:20260928T083000
 DTEND;TZID=America/Los_Angeles:20260928T093000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:fb61534cdb240cf187b3793e1ff4ffd4a0c459d7@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -295,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - September in Eastvale
 DTSTART;TZID=America/Los_Angeles:20260929T100000
 DTEND;TZID=America/Los_Angeles:20260929T113000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:5b89586c15a5eed993e3c558aee3cccc07521c32@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -309,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Women of Business- Relax\, Recharge & Sleep Better
 DTSTART;TZID=America/Los_Angeles:20260929T180000
 DTEND;TZID=America/Los_Angeles:20260929T200000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:1719b01e4cc300e82ad95b650d82e479ed9e8f47@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -325,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market - Glendora Village 2026
 DTSTART;TZID=America/Los_Angeles:20260930T170000
 DTEND;TZID=America/Los_Angeles:20260930T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:dc036de3bcfdda6dcd4035239721bca948df6f87@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
@@ -344,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20261001T113000
 DTEND;TZID=America/Los_Angeles:20261001T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:5d4b0d7625fade9d6475444f87e07db54a9ff400@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -364,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:But First... Coffee Mixer
 DTSTART;TZID=America/Los_Angeles:20261002T080000
 DTEND;TZID=America/Los_Angeles:20261002T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:f9404d9a1bd71a6a609c5a87cc2cbebd9c8a552e@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nBut First...COFF
@@ -383,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:Workforce Pathways Summit
 DTSTART;TZID=America/Los_Angeles:20261002T090000
 DTEND;TZID=America/Los_Angeles:20261002T140000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:d56a7aa4cdee4ec672d80a1ed6cc3abf1bba42f8@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -397,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:Ribbon Cutting for Azusa Technology
 DTSTART;TZID=America/Los_Angeles:20261003T120000
 DTEND;TZID=America/Los_Angeles:20261003T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:93b644126e93f663a493422d487a136d4e4f1b32@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nAzusa Technology
@@ -416,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Business\, Hockey & Opening Night with the Ontario Reign
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T200000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:9c8cd7c08a518d4cb38e3cdd855167c612f4b518@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -429,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20261007T090000
 DTEND;TZID=America/Los_Angeles:20261007T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a11c502d33bbef2aa62813eaeaf1af8bd6cb6185@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -448,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market - Glendora Village 2026
 DTSTART;TZID=America/Los_Angeles:20261007T170000
 DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:dead24914a2841fca9dd7eba303c1845cafde746@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
@@ -467,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:5th Annual Port of Long Beach Business Tour
 DTSTART;TZID=America/Los_Angeles:20261008T100000
 DTEND;TZID=America/Los_Angeles:20261008T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:02f977bd70a05ef8f7347d99e8e51a242641ff7c@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -480,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Monthly Lunch Mixer
 DTSTART;TZID=America/Los_Angeles:20261008T113000
 DTEND;TZID=America/Los_Angeles:20261008T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:dcaaca4b89677458137c59887bea03428e951cdf@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nGlendora Chamber
@@ -496,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261013T180000
 DTEND;TZID=America/Los_Angeles:20261013T190000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:1b425aca666b73d9853ed19880ab7c030ea61d21@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -510,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:Long Term Care Seminar
 DTSTART;TZID=America/Los_Angeles:20261013T180000
 DTEND;TZID=America/Los_Angeles:20261013T200000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a29e6682cd6f5f01e454080ee08274fac10375ed@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -524,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market - Glendora Village 2026
 DTSTART;TZID=America/Los_Angeles:20261014T170000
 DTEND;TZID=America/Los_Angeles:20261014T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:224d8b369552b9c6b25d6d640acdceda28dbc3ac@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
@@ -543,7 +529,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261021T073000
 DTEND;TZID=America/Los_Angeles:20261021T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:896944e52a0a85bcbd064f5a92c48a7a71340a03@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -558,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market - Glendora Village 2026
 DTSTART;TZID=America/Los_Angeles:20261021T170000
 DTEND;TZID=America/Los_Angeles:20261021T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:4cd746e9e5eb3f11ef09f30417119e61fe4abdf1@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
@@ -577,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:Mix and Mingle
 DTSTART;TZID=America/Los_Angeles:20261021T173000
 DTEND;TZID=America/Los_Angeles:20261021T193000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:d2bf2319ca3f05e3be010f837f4d69161819c214@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nLet's mix and mi
@@ -593,7 +579,7 @@ BEGIN:VEVENT
 SUMMARY:Women of Business
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:40d641ca55eee2884e525a67fb5093127982c128@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThis month\, we 
@@ -612,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - October
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:25a2f2af9ad9d2023bc92b295e04cdde2627e8e2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -626,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Farmers Market - Glendora Village 2026
 DTSTART;TZID=America/Los_Angeles:20261028T170000
 DTEND;TZID=America/Los_Angeles:20261028T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:4f03bb2b2fbd0a0d342eaab36002d598387a8dc2@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
@@ -645,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20261104T090000
 DTEND;TZID=America/Los_Angeles:20261104T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:36b094599e6fef8e2fc080dd47bff23d3e00f036@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -664,7 +650,7 @@ BEGIN:VEVENT
 SUMMARY:Vines & Ventures at D'Ellena Winery
 DTSTART;TZID=America/Los_Angeles:20261104T173000
 DTEND;TZID=America/Los_Angeles:20261104T200000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:ec6ae0a609ca6d14f24c4bfb9131434d79dd8c8e@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -677,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20261105T113000
 DTEND;TZID=America/Los_Angeles:20261105T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a086a77c84cf1dabb7c2fc111feabb595990cb91@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -697,7 +683,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T190000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:321dc7a5e3a11a3952871dd6451b62c9c12218ef@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -711,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261118T073000
 DTEND;TZID=America/Los_Angeles:20261118T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a432f7c41c25f248a3feaec354e633dc7673a750@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -726,7 +712,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Village Holiday Stroll & Tree Lighting
 DTSTART;TZID=America/Los_Angeles:20261120T180000
 DTEND;TZID=America/Los_Angeles:20261120T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:958e7d8e6d019d5d1b0acc722e78477535c32d05@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin us for this
@@ -745,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20261202T090000
 DTEND;TZID=America/Los_Angeles:20261202T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:bbe52b060ea1c93a9bd8256c37096c0fd7850dde@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -764,7 +750,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20261203T113000
 DTEND;TZID=America/Los_Angeles:20261203T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:6e71d63b783a715adaff925b9c5d5074a00bc0a6@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -784,7 +770,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261208T180000
 DTEND;TZID=America/Los_Angeles:20261208T190000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:3f6fdd6ba82c6f1c941443fe5b263b98fddef80e@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -798,7 +784,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Christmas Parade
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T120000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:fa6881c3e89b1e241d966864e49bc76ef49e7555@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nSave the date! P
@@ -814,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261216T073000
 DTEND;TZID=America/Los_Angeles:20261216T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:e9ab96f0c1b02c8ad5024032f3b2f4eb07297442@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -829,7 +815,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270106T090000
 DTEND;TZID=America/Los_Angeles:20270106T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:9a44f5b8c9142c56a3473fa24845b09f27157971@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -848,7 +834,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270107T113000
 DTEND;TZID=America/Los_Angeles:20270107T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:ed6f5434f11f37a0fa3218eef0d8ddb4ecd96fa1@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -868,7 +854,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270120T073000
 DTEND;TZID=America/Los_Angeles:20270120T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:8bb11c6531ca08b8425e0e9767332931cf714ec8@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -883,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270203T090000
 DTEND;TZID=America/Los_Angeles:20270203T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:9cc1a536cba698aac13b7d463917987625c14880@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -902,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270204T113000
 DTEND;TZID=America/Los_Angeles:20270204T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:25ec5292e47a5056070bcc684bdf98ea2688d397@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -922,7 +908,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270217T073000
 DTEND;TZID=America/Los_Angeles:20270217T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:f8e7d6b565fb24b2ff45e970fd5b1cb261a74c77@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -937,7 +923,7 @@ BEGIN:VEVENT
 SUMMARY:JHBC Career & Internship Fair
 DTSTART;TZID=America/Los_Angeles:20270302T120000
 DTEND;TZID=America/Los_Angeles:20270302T150000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:f2e3811a2df57e13709a891e05162468e04621bf@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -951,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270303T090000
 DTEND;TZID=America/Los_Angeles:20270303T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:c692600ea539ba2583fcbda8bec73dc5e396bae9@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -970,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270304T113000
 DTEND;TZID=America/Los_Angeles:20270304T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:f2ff6893e24688171e02c13506435dc53ad31ae5@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -990,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270317T073000
 DTEND;TZID=America/Los_Angeles:20270317T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:da962b6a732fb98f98d5796476946d94e2bb7cb8@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -1005,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270401T113000
 DTEND;TZID=America/Los_Angeles:20270401T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:0016ef84ce31238b5ff93178adf4850d9b7c0d3b@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -1025,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270407T090000
 DTEND;TZID=America/Los_Angeles:20270407T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:93b65b6fd69677066b0ffb2b2276875957d98c82@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -1044,7 +1030,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Citizen of the Year Dinner
 DTSTART;TZID=America/Los_Angeles:20270415T180000
 DTEND;TZID=America/Los_Angeles:20270415T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:23f93f5136567a7fdb889424c8c474a55141fa03@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Cit
@@ -1063,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270421T073000
 DTEND;TZID=America/Los_Angeles:20270421T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:778f9dc44aba112817b16cf9b178840401c912c0@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -1078,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270505T090000
 DTEND;TZID=America/Los_Angeles:20270505T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:86db6fc5816d08c106ff098790ddbcd26a54b10a@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -1097,7 +1083,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270506T113000
 DTEND;TZID=America/Los_Angeles:20270506T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:330bf0c7212b19d1ca62e00073e7dccefe7eaf7f@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -1117,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270519T073000
 DTEND;TZID=America/Los_Angeles:20270519T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:6f7abb24a7f913dbca9b0caac3679b5195539194@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -1132,7 +1118,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270602T090000
 DTEND;TZID=America/Los_Angeles:20270602T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:65a4c2ed88619d6e04a771fd03154f23388f1b84@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -1151,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270603T113000
 DTEND;TZID=America/Los_Angeles:20270603T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:c7a04d1eb8a6e2b029597e03806fb0347c4127f0@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -1171,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270616T073000
 DTEND;TZID=America/Los_Angeles:20270616T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:d80a18428919d31d413afcbd763bd7f19779a4f6@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -1186,7 +1172,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Installation and Awards Dinner
 DTSTART;TZID=America/Los_Angeles:20270630T180000
 DTEND;TZID=America/Los_Angeles:20270630T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:045d4343208869c3d82f623592de732e2a76a309@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nSAVE THE DATE\n\
@@ -1204,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270701T113000
 DTEND;TZID=America/Los_Angeles:20270701T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:0f29cff5032bdef13543a27f0f56c94f17beea29@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -1224,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270707T090000
 DTEND;TZID=America/Los_Angeles:20270707T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a29b85b08b8ee5ba612c706b78c5f30b590ba826@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -1243,7 +1229,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270721T073000
 DTEND;TZID=America/Los_Angeles:20270721T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:2994271dcccfe1c756b6aa1ae859b2e935f5d8b7@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -1258,7 +1244,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270804T090000
 DTEND;TZID=America/Los_Angeles:20270804T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:406edfb2ea747ee37e0fb8c126c3f03db052305f@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -1277,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270805T113000
 DTEND;TZID=America/Los_Angeles:20270805T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:564c9b8cf3f9e70fea34638c5e1e9fd59f57150e@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -1297,7 +1283,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270818T073000
 DTEND;TZID=America/Los_Angeles:20270818T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:c7b23ba26c9aad280b5b6963dbc6a5331ecb0b47@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
@@ -1312,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:FLASHBACK Annual Classic Car Show
 DTSTART;TZID=America/Los_Angeles:20270821T160000
 DTEND;TZID=America/Los_Angeles:20270821T210000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:dd9ff54569c6ccc67f4a7d57cb41f2dede495b27@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nFlashback Classi
@@ -1329,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Meeting
 DTSTART;TZID=America/Los_Angeles:20270901T090000
 DTEND;TZID=America/Los_Angeles:20270901T100000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:a89844eff7578d3cd82240d28a23f3c7666f15de@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
@@ -1348,7 +1334,7 @@ BEGIN:VEVENT
 SUMMARY:Legislative Action & Economic Development Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20270902T113000
 DTEND;TZID=America/Los_Angeles:20270902T130000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:6e19514fa1723b43a9483f7fb7f1d4d0a2c2aee0@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
@@ -1368,7 +1354,7 @@ BEGIN:VEVENT
 SUMMARY:Glendora Chamber Board Meeting
 DTSTART;TZID=America/Los_Angeles:20270915T073000
 DTEND;TZID=America/Los_Angeles:20270915T090000
-DTSTAMP:20260924T135855Z
+DTSTAMP:20260925T142355Z
 UID:47cf4156f2e18f528ff816b467b465e0179c1611@chamber-events-harvester
 CATEGORIES:Glendora Chamber of Commerce
 DESCRIPTION:Organized by: Glendora Chamber of Commerce
