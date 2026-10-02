@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Social-Saint Aesthetix
 DTSTART;TZID=America/Los_Angeles:20261001T083000
 DTEND;TZID=America/Los_Angeles:20261001T100000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:08051125fb094a3d7b18ef05dbbb2fec34955be4@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -21,30 +21,10 @@ URL:https://www.monroviacc.com/events/details/coffee-social-saint-aestheti
  x-3334
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20261001T120000
-DTEND;TZID=America/Los_Angeles:20261001T133000
-DTSTAMP:20261001T155639Z
-UID:015cf0c8293d23327ab05e446de1273b128c3e23@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1875170
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heroes Wear Helmets Golf Tournament
 DTSTART;TZID=America/Los_Angeles:20261002T073000
 DTEND;TZID=America/Los_Angeles:20261002T130000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:0dc321ed584371aa72b70bb828a5b8333ea7aa92@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -56,29 +36,10 @@ URL:https://ontarioca.chambermaster.com/events/details/heroes-wear-helmets
  -golf-tournament-5966
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:But First... Coffee Mixer
-DTSTART;TZID=America/Los_Angeles:20261002T080000
-DTEND;TZID=America/Los_Angeles:20261002T090000
-DTSTAMP:20261001T155639Z
-UID:f9404d9a1bd71a6a609c5a87cc2cbebd9c8a552e@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nBut First...COFF
- EE!\n\nThe Glendora Chamber's monthly Friday morning networking mixer offe
- rs a fantastic opportunity to connect with fellow members\, build business
-  relationships\, and stay informed about local happenings. Join us for a l
- ively and engaging ...
-LOCATION:Appliance TV Outlet 1321 S Grand Ave Glendora \, CA 91740 United 
- States Event Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/but-first-coffee-
- mixer-1897612
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Workforce Pathways Summit
 DTSTART;TZID=America/Los_Angeles:20261002T090000
 DTEND;TZID=America/Los_Angeles:20261002T140000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:d56a7aa4cdee4ec672d80a1ed6cc3abf1bba42f8@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -92,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Monrovia Guild of Children's Hospital Autumn Tea
 DTSTART;TZID=America/Los_Angeles:20261003T110000
 DTEND;TZID=America/Los_Angeles:20261003T140000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:f9422e7403c9de0b90fa3bd007d7d8432cf0cdb0@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -107,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Hope House Annual Fundraiser Luncheon
 DTSTART;TZID=America/Los_Angeles:20261003T110000
 DTEND;TZID=America/Los_Angeles:20261003T130000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:64460ab34d0acdbf74541b69a7e8939043f58f75@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -118,29 +79,10 @@ URL:https://www.monroviacc.com/events/details/hope-house-annual-fundraiser
  -luncheon-4019
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ribbon Cutting for Azusa Technology
-DTSTART;TZID=America/Los_Angeles:20261003T120000
-DTEND;TZID=America/Los_Angeles:20261003T130000
-DTSTAMP:20261001T155639Z
-UID:93b644126e93f663a493422d487a136d4e4f1b32@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nAzusa Technology
-  10-Year Anniversary Ribbon Cutting & Open House\n\nJoin the Glendora Cham
- ber of Commerce as we celebrate an incredible milestone—10 years of Azus
- a Technology! 🎉\n\nCome help us congratulate the Azusa Technology team 
- with an official ...
-LOCATION:Azusa Technology 1112 E. Route 66 Glendora \, CA 91740 United Sta
- tes
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ribbon-cutting-fo
- r-azusa-technology-1926016
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Business\, Hockey & Opening Night with the Ontario Reign
 DTSTART;TZID=America/Los_Angeles:20261003T160000
 DTEND;TZID=America/Los_Angeles:20261003T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:9c8cd7c08a518d4cb38e3cdd855167c612f4b518@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -153,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Chamber Ribbon Cutting-Dr. Arodi Martinez
 DTSTART;TZID=America/Los_Angeles:20261005T163000
 DTEND;TZID=America/Los_Angeles:20261005T173000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:5a93fa32b577bcd8227bdcec0da6dd456e141c02@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -167,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Ontario City Council
 DTSTART;TZID=America/Los_Angeles:20261006T183000
 DTEND;TZID=America/Los_Angeles:20261006T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:5ebced0a214e608b2f9110a3685b408c09accb6f@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -181,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20261007T080000
 DTEND;TZID=America/Los_Angeles:20261007T090000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:b0092137c55f29258edf2be1e841933a2a9eee13@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -195,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Good Morning Ontario
 DTSTART;TZID=America/Los_Angeles:20261007T080000
 DTEND;TZID=America/Los_Angeles:20261007T093000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:fb77dc58d448900f0d34101bcd02989842e7ff14@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -206,48 +148,10 @@ URL:https://ontarioca.chambermaster.com/events/details/good-morning-ontari
  o-5974
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20261007T090000
-DTEND;TZID=America/Los_Angeles:20261007T100000
-DTSTAMP:20261001T155639Z
-UID:a11c502d33bbef2aa62813eaeaf1af8bd6cb6185@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892567
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farmers Market - Glendora Village 2026
-DTSTART;TZID=America/Los_Angeles:20261007T170000
-DTEND;TZID=America/Los_Angeles:20261007T210000
-DTSTAMP:20261001T155639Z
-UID:dead24914a2841fca9dd7eba303c1845cafde746@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
- lage Farmers Market is a weekly certified farmers market held every Wednes
- day from 5:00 PM to 9:00 PM along Glendora Avenue\, between Foothill Boule
- vard and Bennett Avenue. The market brings together California farmers\, l
- ocal artisans\, ...
-LOCATION:Glendora Village 224 N. Glendora Ave. Glendora \, 91741 Glendora 
- Ave. between Foothill Blvd. north to Bennett Ave.
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/farmers-market-gl
- endora-village-2026-1899441
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:5th Annual Port of Long Beach Business Tour
 DTSTART;TZID=America/Los_Angeles:20261008T100000
 DTEND;TZID=America/Los_Angeles:20261008T130000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:02f977bd70a05ef8f7347d99e8e51a242641ff7c@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -257,42 +161,10 @@ ORGANIZER;CN="Inland Empire Chamber of Commerce":mailto:noreply@chamber-ev
 URL:https://iercc.glueup.com/event/192589
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Glendora Chamber Monthly Lunch Mixer
-DTSTART;TZID=America/Los_Angeles:20261008T113000
-DTEND;TZID=America/Los_Angeles:20261008T130000
-DTSTAMP:20261001T155639Z
-UID:dcaaca4b89677458137c59887bea03428e951cdf@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nGlendora Chamber
-  Monthly Lunch Mixer
-LOCATION:Grape Leaf Greek Kouzina 650 S Grand Ave. Suit101 Glendora \, CA 
- 91741 United States Event Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- monthly-lunch-mixer-1916532
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ribbon Cutting for Pellegrino's Italian Kitchen
-DTSTART;TZID=America/Los_Angeles:20261009T110000
-DTEND;TZID=America/Los_Angeles:20261009T120000
-DTSTAMP:20261001T155639Z
-UID:f1ee7dd8e7cb77cd5577f93236a6143ee65c38b0@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin us for the 
- Grand Opening and Ribbon Cutting of this amazing\, family owned business!
-LOCATION:Pellegrino's Italian Kitchen 630 S. Grand Ave Ste 106 Glendora \,
-  CA 91740 United States
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ribbon-cutting-fo
- r-pellegrino-s-italian-kitchen-1940896
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Old Town Fall Festival
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:806481ac42995ea8df26ae9deba499f0ee161a35@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -305,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:City Council & MUSD Board Candidate Forum
 DTSTART;TZID=America/Los_Angeles:20261012T180000
 DTEND;TZID=America/Los_Angeles:20261012T204500
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:7079eb741913dadf9002e8b78d4501c0b2c80d6a@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -320,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Live Business Mentoring & Learning
 DTSTART;TZID=America/Los_Angeles:20261013T070000
 DTEND;TZID=America/Los_Angeles:20261013T190000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:39d5dd66ac8d0b4d16d589c65e56f38aaa1956d0@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -334,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Government Affairs Meeting
 DTSTART;TZID=America/Los_Angeles:20261013T080000
 DTEND;TZID=America/Los_Angeles:20261013T090000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:2c8544a78dac41a2d1df7985e34e20b921100e59@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -348,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261013T180000
 DTEND;TZID=America/Los_Angeles:20261013T190000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:1b425aca666b73d9853ed19880ab7c030ea61d21@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -362,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Long Term Care Seminar
 DTSTART;TZID=America/Los_Angeles:20261013T180000
 DTEND;TZID=America/Los_Angeles:20261013T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:a29e6682cd6f5f01e454080ee08274fac10375ed@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -376,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Chamber Networking Lunch-Jakes Roadhouse
 DTSTART;TZID=America/Los_Angeles:20261014T120000
 DTEND;TZID=America/Los_Angeles:20261014T133000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:81f0bb884fca9bfca26e7d9ea968386a551e35d2@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -387,29 +259,10 @@ URL:https://www.monroviacc.com/events/details/chamber-networking-lunch-jak
  es-roadhouse-10-14-2026-3344
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Farmers Market - Glendora Village 2026
-DTSTART;TZID=America/Los_Angeles:20261014T170000
-DTEND;TZID=America/Los_Angeles:20261014T210000
-DTSTAMP:20261001T155639Z
-UID:224d8b369552b9c6b25d6d640acdceda28dbc3ac@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
- lage Farmers Market is a weekly certified farmers market held every Wednes
- day from 5:00 PM to 9:00 PM along Glendora Avenue\, between Foothill Boule
- vard and Bennett Avenue. The market brings together California farmers\, l
- ocal artisans\, ...
-LOCATION:Glendora Village 224 N. Glendora Ave. Glendora \, 91741 Glendora 
- Ave. between Foothill Blvd. north to Bennett Ave.
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/farmers-market-gl
- endora-village-2026-1899442
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Executive Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261019T160000
 DTEND;TZID=America/Los_Angeles:20261019T163000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:6f43efbc27fd40e66f03a3008458a0207d42783f@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -420,60 +273,10 @@ URL:https://www.monroviacc.com/events/details/executive-board-meeting-10-1
  9-2026-3477
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20261021T073000
-DTEND;TZID=America/Los_Angeles:20261021T090000
-DTSTAMP:20261001T155639Z
-UID:896944e52a0a85bcbd064f5a92c48a7a71340a03@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892530
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Farmers Market - Glendora Village 2026
-DTSTART;TZID=America/Los_Angeles:20261021T170000
-DTEND;TZID=America/Los_Angeles:20261021T210000
-DTSTAMP:20261001T155639Z
-UID:4cd746e9e5eb3f11ef09f30417119e61fe4abdf1@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
- lage Farmers Market is a weekly certified farmers market held every Wednes
- day from 5:00 PM to 9:00 PM along Glendora Avenue\, between Foothill Boule
- vard and Bennett Avenue. The market brings together California farmers\, l
- ocal artisans\, ...
-LOCATION:Glendora Village 224 N. Glendora Ave. Glendora \, 91741 Glendora 
- Ave. between Foothill Blvd. north to Bennett Ave.
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/farmers-market-gl
- endora-village-2026-1899443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mix and Mingle
-DTSTART;TZID=America/Los_Angeles:20261021T173000
-DTEND;TZID=America/Los_Angeles:20261021T193000
-DTSTAMP:20261001T155639Z
-UID:d2bf2319ca3f05e3be010f837f4d69161819c214@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nLet's mix and mi
- ngle at Foothill Credit Union!
-LOCATION:Foothill Credit Union 625 S. Lone Hill Ave Glendora \, CA 91740 U
- nited States Event Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/mix-and-mingle-19
- 16542
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TEE TIME in TEMECULA
 DTSTART;TZID=America/Los_Angeles:20261022T100000
 DTEND;TZID=America/Los_Angeles:20261022T130000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:41401fdce0e98fe74ba88bb087bbd99234157fc2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -487,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Monrovia Chamber Evening Mixer-FSP Designs
 DTSTART;TZID=America/Los_Angeles:20261022T170000
 DTEND;TZID=America/Los_Angeles:20261022T190000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:64f3af7f455c4462760ac0cf21e9473f86ecebfa@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -501,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:A Taste of Old Town Monrovia
 DTSTART;TZID=America/Los_Angeles:20261025T170000
 DTEND;TZID=America/Los_Angeles:20261025T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:05ecb8ce9276e2a371cfaa474c6e94c2e8ff3598@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -512,29 +315,10 @@ URL:https://www.monroviacc.com/events/details/a-taste-of-old-town-monrovia
  -4017
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women of Business
-DTSTART;TZID=America/Los_Angeles:20261027T100000
-DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20261001T155639Z
-UID:40d641ca55eee2884e525a67fb5093127982c128@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThis month\, we 
- are slowing down. We've spent all year hustling\, and now it's time for YO
- U. Join us for an evening of yoga\, meditation\, stretching\, sound bath a
- nd more- all well resting on the most luxurious mattresses!\nDress comfy!
-LOCATION:Gumdrops & Beads Boutique 158 N Glendora Ave J Glendora \, CA 917
- 41 United States Sleep Better Center\n1000 E Rte 66 Ste P\, Glendora\, CA 
- 91740 Event Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/women-of-business
- -1916541
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - October
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T120000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:25a2f2af9ad9d2023bc92b295e04cdde2627e8e2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -548,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Board of Directors Monthly Meeting
 DTSTART;TZID=America/Los_Angeles:20261028T120000
 DTEND;TZID=America/Los_Angeles:20261028T133000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:4bef6fc357fe92df655477525ee2077bfb74ed24@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -562,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261028T160000
 DTEND;TZID=America/Los_Angeles:20261028T170000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:52567e17b1b2b39769a1016ae75e4dd306b43c92@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -574,29 +358,10 @@ URL:https://ontarioca.chambermaster.com/events/details/board-meeting-10-28
  -2026-5518
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Farmers Market - Glendora Village 2026
-DTSTART;TZID=America/Los_Angeles:20261028T170000
-DTEND;TZID=America/Los_Angeles:20261028T210000
-DTSTAMP:20261001T155639Z
-UID:4f03bb2b2fbd0a0d342eaab36002d598387a8dc2@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Vil
- lage Farmers Market is a weekly certified farmers market held every Wednes
- day from 5:00 PM to 9:00 PM along Glendora Avenue\, between Foothill Boule
- vard and Bennett Avenue. The market brings together California farmers\, l
- ocal artisans\, ...
-LOCATION:Glendora Village 224 N. Glendora Ave. Glendora \, 91741 Glendora 
- Ave. between Foothill Blvd. north to Bennett Ave.
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/farmers-market-gl
- endora-village-2026-1899444
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inland Empire Restaurant Association – Official Launch
 DTSTART;TZID=America/Los_Angeles:20261028T180000
 DTEND;TZID=America/Los_Angeles:20261028T220000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:fbfe4c7f9daa9d57cff506612dbd04e4b451b660@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -609,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Spooktacular & Trick-or-Treat Bash
 DTSTART;TZID=America/Los_Angeles:20261031T150000
 DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:14aafced392646c036b42270a1aa35d9a68c9979@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -620,29 +385,10 @@ URL:https://www.monroviacc.com/events/details/halloween-spooktacular-trick
  -or-treat-bash-4003
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20261104T090000
-DTEND;TZID=America/Los_Angeles:20261104T100000
-DTSTAMP:20261001T155639Z
-UID:36b094599e6fef8e2fc080dd47bff23d3e00f036@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892568
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vines & Ventures at D'Ellena Winery
 DTSTART;TZID=America/Los_Angeles:20261104T173000
 DTEND;TZID=America/Los_Angeles:20261104T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:ec6ae0a609ca6d14f24c4bfb9131434d79dd8c8e@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -652,30 +398,10 @@ ORGANIZER;CN="Inland Empire Chamber of Commerce":mailto:noreply@chamber-ev
 URL:https://iercc.glueup.com/event/193918
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20261105T120000
-DTEND;TZID=America/Los_Angeles:20261105T133000
-DTSTAMP:20261001T155639Z
-UID:cb0f93f98d427d0b4062f00f1d272df425ecaed4@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940603
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Elevate Experience
 DTSTART;TZID=America/Los_Angeles:20261107T110000
 DTEND;TZID=America/Los_Angeles:20261107T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:e019724461df04be2ff3da4de9c7cf7fea7ac581@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -689,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Small Business Development Day
 DTSTART;TZID=America/Los_Angeles:20261109T170000
 DTEND;TZID=America/Los_Angeles:20261109T200000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:5d968f94106757cd74598db5bc8e026485d02cc2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -703,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T190000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:321dc7a5e3a11a3952871dd6451b62c9c12218ef@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -714,83 +440,10 @@ ORGANIZER;CN="American Business Association - Inland Empire (ABAIE)":mailt
 URL:https://abaie.org/event-6811588
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20261118T073000
-DTEND;TZID=America/Los_Angeles:20261118T090000
-DTSTAMP:20261001T155639Z
-UID:a432f7c41c25f248a3feaec354e633dc7673a750@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892531
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Village Holiday Stroll & Tree Lighting
-DTSTART;TZID=America/Los_Angeles:20261120T180000
-DTEND;TZID=America/Los_Angeles:20261120T210000
-DTSTAMP:20261001T155639Z
-UID:958e7d8e6d019d5d1b0acc722e78477535c32d05@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin us for this
-  festive holiday tradition! Stroll through the Village shops\, then take a
-  picture with Santa and enjoy music provided by local singing groups. \n\n
- TREE LIGHTING IN THE PLAZA AT 6:30PM\n\nFor more information\, call 626-96
- 3-4128
-LOCATION:Glendora Village 224 N. Glendora Ave. Glendora \, 91741 The Villa
- ge\, Foothill to Bennett Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-village-
- holiday-stroll-tree-lighting-1904043
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20261202T090000
-DTEND;TZID=America/Los_Angeles:20261202T100000
-DTSTAMP:20261001T155639Z
-UID:bbe52b060ea1c93a9bd8256c37096c0fd7850dde@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892569
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20261203T120000
-DTEND;TZID=America/Los_Angeles:20261203T133000
-DTSTAMP:20261001T155639Z
-UID:2f0df1a52fe7f01b5b2f0421ed985c33f5e4a331@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940604
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261208T180000
 DTEND;TZID=America/Los_Angeles:20261208T190000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:3f6fdd6ba82c6f1c941443fe5b263b98fddef80e@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -801,149 +454,10 @@ ORGANIZER;CN="American Business Association - Inland Empire (ABAIE)":mailt
 URL:https://abaie.org/event-6811590
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Glendora Christmas Parade
-DTSTART;TZID=America/Los_Angeles:20261212T090000
-DTEND;TZID=America/Los_Angeles:20261212T120000
-DTSTAMP:20261001T155639Z
-UID:fa6881c3e89b1e241d966864e49bc76ef49e7555@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nSave the date! P
- lease visit the official site for more information.
-LOCATION:Glendora Village 224 N. Glendora Ave. Glendora \, 91741 Starts in
-  the Glendora Village Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-christma
- s-parade-1869915
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20261216T073000
-DTEND;TZID=America/Los_Angeles:20261216T090000
-DTSTAMP:20261001T155639Z
-UID:e9ab96f0c1b02c8ad5024032f3b2f4eb07297442@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892532
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270106T090000
-DTEND;TZID=America/Los_Angeles:20270106T100000
-DTSTAMP:20261001T155639Z
-UID:9a44f5b8c9142c56a3473fa24845b09f27157971@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892570
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270107T120000
-DTEND;TZID=America/Los_Angeles:20270107T133000
-DTSTAMP:20261001T155639Z
-UID:f57bbab991181bb3c169affcad329af460691f87@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940605
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270120T073000
-DTEND;TZID=America/Los_Angeles:20270120T090000
-DTSTAMP:20261001T155639Z
-UID:8bb11c6531ca08b8425e0e9767332931cf714ec8@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892533
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270203T090000
-DTEND;TZID=America/Los_Angeles:20270203T100000
-DTSTAMP:20261001T155639Z
-UID:9cc1a536cba698aac13b7d463917987625c14880@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892571
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270204T120000
-DTEND;TZID=America/Los_Angeles:20270204T133000
-DTSTAMP:20261001T155639Z
-UID:b78ebac0bc91c882cf1cb0aea38576578a9b026a@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940606
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270217T073000
-DTEND;TZID=America/Los_Angeles:20270217T090000
-DTSTAMP:20261001T155639Z
-UID:f8e7d6b565fb24b2ff45e970fd5b1cb261a74c77@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892534
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JHBC Career & Internship Fair
 DTSTART;TZID=America/Los_Angeles:20270302T120000
 DTEND;TZID=America/Los_Angeles:20270302T150000
-DTSTAMP:20261001T155639Z
+DTSTAMP:20261002T151715Z
 UID:f2e3811a2df57e13709a891e05162468e04621bf@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -952,437 +466,5 @@ LOCATION:CSUSB SMSU\, South
 ORGANIZER;CN="American Business Association - Inland Empire (ABAIE)":mailt
  o:noreply@chamber-events-harvester.invalid
 URL:https://abaie.org/event-6802616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270303T090000
-DTEND;TZID=America/Los_Angeles:20270303T100000
-DTSTAMP:20261001T155639Z
-UID:c692600ea539ba2583fcbda8bec73dc5e396bae9@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892572
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270304T120000
-DTEND;TZID=America/Los_Angeles:20270304T133000
-DTSTAMP:20261001T155639Z
-UID:9d104a917316c762dd52ebebddd00228e6069c5b@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940607
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270317T073000
-DTEND;TZID=America/Los_Angeles:20270317T090000
-DTSTAMP:20261001T155639Z
-UID:da962b6a732fb98f98d5796476946d94e2bb7cb8@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892535
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270401T120000
-DTEND;TZID=America/Los_Angeles:20270401T133000
-DTSTAMP:20261001T155639Z
-UID:4267eb9b7a92cb1c7286ebb2477dc1b5475e2c92@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940608
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270407T090000
-DTEND;TZID=America/Los_Angeles:20270407T100000
-DTSTAMP:20261001T155639Z
-UID:93b65b6fd69677066b0ffb2b2276875957d98c82@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892573
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Citizen of the Year Dinner
-DTSTART;TZID=America/Los_Angeles:20270415T180000
-DTEND;TZID=America/Los_Angeles:20270415T210000
-DTSTAMP:20261001T155639Z
-UID:23f93f5136567a7fdb889424c8c474a55141fa03@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nThe Glendora Cit
- izen of the Year Dinner is a cherished community tradition that honors an 
- outstanding Glendora citizen each year for their exceptional service\, lea
- dership\, and dedication to our community. Community organizations and Gle
- ndora residents ...
-LOCATION:Glendora Country Club 2400 Country Club Drive Glendora \, CA 9174
- 1 United States Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-citizen-
- of-the-year-dinner-1904032
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270421T073000
-DTEND;TZID=America/Los_Angeles:20270421T090000
-DTSTAMP:20261001T155639Z
-UID:778f9dc44aba112817b16cf9b178840401c912c0@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892536
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270505T090000
-DTEND;TZID=America/Los_Angeles:20270505T100000
-DTSTAMP:20261001T155639Z
-UID:86db6fc5816d08c106ff098790ddbcd26a54b10a@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892574
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270506T120000
-DTEND;TZID=America/Los_Angeles:20270506T133000
-DTSTAMP:20261001T155639Z
-UID:ff07700119db7e271204102e20a39e36d499ff6c@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940609
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270519T073000
-DTEND;TZID=America/Los_Angeles:20270519T090000
-DTSTAMP:20261001T155639Z
-UID:6f7abb24a7f913dbca9b0caac3679b5195539194@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892537
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270602T090000
-DTEND;TZID=America/Los_Angeles:20270602T100000
-DTSTAMP:20261001T155639Z
-UID:65a4c2ed88619d6e04a771fd03154f23388f1b84@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892575
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270603T120000
-DTEND;TZID=America/Los_Angeles:20270603T133000
-DTSTAMP:20261001T155639Z
-UID:07fbf0c8fc26f74748743376a01d0b66c1f74aef@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940610
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270616T073000
-DTEND;TZID=America/Los_Angeles:20270616T090000
-DTSTAMP:20261001T155639Z
-UID:d80a18428919d31d413afcbd763bd7f19779a4f6@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892538
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Installation and Awards Dinner
-DTSTART;TZID=America/Los_Angeles:20270630T180000
-DTEND;TZID=America/Los_Angeles:20270630T210000
-DTSTAMP:20261001T155639Z
-UID:045d4343208869c3d82f623592de732e2a76a309@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nSAVE THE DATE\n\
- nThe Glendora Chamber of Commerce proudly invites you to the 2027 Installa
- tion & Awards Dinner—an evening celebrating the businesses\, leaders\, e
- ntrepreneurs\, and community champions who help Glendora thrive.
-LOCATION:Glendora Country Club 2400 Country Club Drive Glendora \, CA 9174
- 1 United States
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- installation-and-awards-dinner-1904010
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270701T120000
-DTEND;TZID=America/Los_Angeles:20270701T133000
-DTSTAMP:20261001T155639Z
-UID:d257a2b2158cff1c68bb27b85b15cdc4732045b5@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940611
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270707T090000
-DTEND;TZID=America/Los_Angeles:20270707T100000
-DTSTAMP:20261001T155639Z
-UID:a29b85b08b8ee5ba612c706b78c5f30b590ba826@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892576
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270721T073000
-DTEND;TZID=America/Los_Angeles:20270721T090000
-DTSTAMP:20261001T155639Z
-UID:2994271dcccfe1c756b6aa1ae859b2e935f5d8b7@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892539
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270804T090000
-DTEND;TZID=America/Los_Angeles:20270804T100000
-DTSTAMP:20261001T155639Z
-UID:406edfb2ea747ee37e0fb8c126c3f03db052305f@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892577
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270805T120000
-DTEND;TZID=America/Los_Angeles:20270805T133000
-DTSTAMP:20261001T155639Z
-UID:49dbf9588b278212b923fe58e04274ce6fb0f97d@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940612
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270818T073000
-DTEND;TZID=America/Los_Angeles:20270818T090000
-DTSTAMP:20261001T155639Z
-UID:c7b23ba26c9aad280b5b6963dbc6a5331ecb0b47@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892540
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FLASHBACK Annual Classic Car Show
-DTSTART;TZID=America/Los_Angeles:20270821T160000
-DTEND;TZID=America/Los_Angeles:20270821T210000
-DTSTAMP:20261001T155639Z
-UID:dd9ff54569c6ccc67f4a7d57cb41f2dede495b27@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nFlashback Classi
- c Car Show is the largest end-of-summer party in the East San Gabriel Vall
- ey! Our car show features a wide selection of classic cars\, trucks\, and 
- hot rods that line the beautiful Glendora Avenue. Live continuous entertai
- nment\, Kids Fun ...
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/flashback-annual-
- classic-car-show-1904053
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ambassador Meeting
-DTSTART;TZID=America/Los_Angeles:20270901T090000
-DTEND;TZID=America/Los_Angeles:20270901T100000
-DTSTAMP:20261001T155639Z
-UID:a89844eff7578d3cd82240d28a23f3c7666f15de@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nJoin the Glendor
- a Chamber Ambassadors for our monthly meeting as we discuss upcoming Chamb
- er events\, welcome new members\, plan outreach activities\, and explore w
- ays to strengthen and promote the local business community. Ambassadors se
- rve as the ...
-LOCATION:Glendora Chamber Office 224 N. Glendora Ave. Glendora \, 91741 Ev
- ent Contact Auburn Haney Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/ambassador-meetin
- g-1892578
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Legislative Action & Economic Development Committee Meeting
-DTSTART;TZID=America/Los_Angeles:20270902T120000
-DTEND;TZID=America/Los_Angeles:20270902T133000
-DTSTAMP:20261001T155639Z
-UID:ee459f542c088737ed0d0aba8c00e1effe40f6da@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce\n\nStay informed on
-  the issues shaping the business community. The Glendora Chamber's Legisla
- tive Action & Economic Development Committee monitors local\, state\, and 
- federal legislation\, discusses public policy affecting businesses\, and e
- xplores ...
-LOCATION:Pricing No Cost. GCC Members Only. America's Christian Credit Uni
- on 2100 E Rte. 66 Glendora \, 91741 ACCU Second-floor meeting room. Event 
- Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/legislative-actio
- n-economic-development-committee-meeting-1940613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Glendora Chamber Board Meeting
-DTSTART;TZID=America/Los_Angeles:20270915T073000
-DTEND;TZID=America/Los_Angeles:20270915T090000
-DTSTAMP:20261001T155639Z
-UID:47cf4156f2e18f528ff816b467b465e0179c1611@chamber-events-harvester
-CATEGORIES:Glendora Chamber of Commerce
-DESCRIPTION:Organized by: Glendora Chamber of Commerce
-LOCATION:America's Christian Credit Union 2100 E Rte. 66 Glendora \, 91741
-  Second-floor meeting room. Event Contact Joe Cina Send Email
-ORGANIZER;CN="Glendora Chamber of Commerce":mailto:noreply@chamber-events-
- harvester.invalid
-URL:https://business.glendora-chamber.org/events/Details/glendora-chamber-
- board-meeting-1892541
 END:VEVENT
 END:VCALENDAR
