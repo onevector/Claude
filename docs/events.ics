@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Social-Saint Aesthetix
 DTSTART;TZID=America/Los_Angeles:20261001T083000
 DTEND;TZID=America/Los_Angeles:20261001T100000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:08051125fb094a3d7b18ef05dbbb2fec34955be4@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Heroes Wear Helmets Golf Tournament
 DTSTART;TZID=America/Los_Angeles:20261002T073000
 DTEND;TZID=America/Los_Angeles:20261002T130000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:0dc321ed584371aa72b70bb828a5b8333ea7aa92@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Monrovia Guild of Children's Hospital Autumn Tea
 DTSTART;TZID=America/Los_Angeles:20261003T110000
 DTEND;TZID=America/Los_Angeles:20261003T140000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:f9422e7403c9de0b90fa3bd007d7d8432cf0cdb0@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Hope House Annual Fundraiser Luncheon
 DTSTART;TZID=America/Los_Angeles:20261003T110000
 DTEND;TZID=America/Los_Angeles:20261003T130000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:64460ab34d0acdbf74541b69a7e8939043f58f75@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Chamber Ribbon Cutting-Dr. Arodi Martinez
 DTSTART;TZID=America/Los_Angeles:20261005T163000
 DTEND;TZID=America/Los_Angeles:20261005T173000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:5a93fa32b577bcd8227bdcec0da6dd456e141c02@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Ontario City Council
 DTSTART;TZID=America/Los_Angeles:20261006T183000
 DTEND;TZID=America/Los_Angeles:20261006T200000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:5ebced0a214e608b2f9110a3685b408c09accb6f@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Ambassador Committee Meeting
 DTSTART;TZID=America/Los_Angeles:20261007T080000
 DTEND;TZID=America/Los_Angeles:20261007T090000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:b0092137c55f29258edf2be1e841933a2a9eee13@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Good Morning Ontario
 DTSTART;TZID=America/Los_Angeles:20261007T080000
 DTEND;TZID=America/Los_Angeles:20261007T093000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:fb77dc58d448900f0d34101bcd02989842e7ff14@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Old Town Fall Festival
 DTSTART;TZID=America/Los_Angeles:20261010T100000
 DTEND;TZID=America/Los_Angeles:20261010T140000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:806481ac42995ea8df26ae9deba499f0ee161a35@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:City Council & MUSD Board Candidate Forum
 DTSTART;TZID=America/Los_Angeles:20261012T180000
 DTEND;TZID=America/Los_Angeles:20261012T204500
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:7079eb741913dadf9002e8b78d4501c0b2c80d6a@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Government Affairs Meeting
 DTSTART;TZID=America/Los_Angeles:20261013T080000
 DTEND;TZID=America/Los_Angeles:20261013T090000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:2c8544a78dac41a2d1df7985e34e20b921100e59@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Chamber Networking Lunch-Jakes Roadhouse
 DTSTART;TZID=America/Los_Angeles:20261014T120000
 DTEND;TZID=America/Los_Angeles:20261014T133000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:81f0bb884fca9bfca26e7d9ea968386a551e35d2@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Executive Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261019T160000
 DTEND;TZID=America/Los_Angeles:20261019T163000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:6f43efbc27fd40e66f03a3008458a0207d42783f@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -191,24 +191,10 @@ URL:https://www.monroviacc.com/events/details/executive-board-meeting-10-1
  9-2026-3477
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Homeownership Workshop at KB Homes
-DTSTART;TZID=America/Los_Angeles:20261024T103000
-DTEND;TZID=America/Los_Angeles:20261024T130000
-DTSTAMP:20261024T130328Z
-UID:12c44783587d87d75bdec61ebb95a1e03352f8af@chamber-events-harvester
-CATEGORIES:American Business Association - Inland Empire (ABAIE)
-DESCRIPTION:Organized by: American Business Association - Inland Empire (A
- BAIE)
-LOCATION:Arbor at Parkview : 14792 Leafy Lane\, Fontana
-ORGANIZER;CN="American Business Association - Inland Empire (ABAIE)":mailt
- o:noreply@chamber-events-harvester.invalid
-URL:https://abaie.org/event-6872063
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Taste of Old Town Monrovia
 DTSTART;TZID=America/Los_Angeles:20261025T170000
 DTEND;TZID=America/Los_Angeles:20261025T200000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:05ecb8ce9276e2a371cfaa474c6e94c2e8ff3598@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -222,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - October
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T110000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:25a2f2af9ad9d2023bc92b295e04cdde2627e8e2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -236,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Board of Directors Monthly Meeting
 DTSTART;TZID=America/Los_Angeles:20261028T120000
 DTEND;TZID=America/Los_Angeles:20261028T133000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:4bef6fc357fe92df655477525ee2077bfb74ed24@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -250,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Board Meeting
 DTSTART;TZID=America/Los_Angeles:20261028T160000
 DTEND;TZID=America/Los_Angeles:20261028T170000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:52567e17b1b2b39769a1016ae75e4dd306b43c92@chamber-events-harvester
 CATEGORIES:Ontario Chamber of Commerce (ChamberMaster)
 DESCRIPTION:Organized by: Ontario Chamber of Commerce (ChamberMaster)
@@ -265,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Inland Empire Restaurant Association – Official Launch
 DTSTART;TZID=America/Los_Angeles:20261028T180000
 DTEND;TZID=America/Los_Angeles:20261028T220000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:fbfe4c7f9daa9d57cff506612dbd04e4b451b660@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -278,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:The Chamber Challenge
 DTSTART;TZID=America/Los_Angeles:20261030T090000
 DTEND;TZID=America/Los_Angeles:20261030T180000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:00c941829bac879ad0dd782a689289403b6cc51b@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -292,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Halloween Spooktacular & Trick-or-Treat Bash
 DTSTART;TZID=America/Los_Angeles:20261031T150000
 DTEND;TZID=America/Los_Angeles:20261031T180000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:14aafced392646c036b42270a1aa35d9a68c9979@chamber-events-harvester
 CATEGORIES:Monrovia Chamber of Commerce
 DESCRIPTION:Organized by: Monrovia Chamber of Commerce
@@ -306,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Vines & Ventures at D'Ellena Winery
 DTSTART;TZID=America/Los_Angeles:20261104T173000
 DTEND;TZID=America/Los_Angeles:20261104T200000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:ec6ae0a609ca6d14f24c4bfb9131434d79dd8c8e@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -319,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:The Elevate Experience
 DTSTART;TZID=America/Los_Angeles:20261107T110000
 DTEND;TZID=America/Los_Angeles:20261107T200000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:e019724461df04be2ff3da4de9c7cf7fea7ac581@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -333,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Small Business Development Day
 DTSTART;TZID=America/Los_Angeles:20261109T170000
 DTEND;TZID=America/Los_Angeles:20261109T200000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:5d968f94106757cd74598db5bc8e026485d02cc2@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -347,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261110T180000
 DTEND;TZID=America/Los_Angeles:20261110T190000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:321dc7a5e3a11a3952871dd6451b62c9c12218ef@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -361,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Accelerating ADU Development
 DTSTART;TZID=America/Los_Angeles:20261112T160000
 DTEND;TZID=America/Los_Angeles:20261112T173000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:2d065710a7ad083c9868a5b13cf6cef67d57a3b8@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -374,7 +360,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Business Brewing - November
 DTSTART;TZID=America/Los_Angeles:20261117T100000
 DTEND;TZID=America/Los_Angeles:20261117T110000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:fe4b00da6e621052d817afb51ca050363bd804b9@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -388,7 +374,7 @@ BEGIN:VEVENT
 SUMMARY:CHEERS TO THE YEAR
 DTSTART;TZID=America/Los_Angeles:20261202T173000
 DTEND;TZID=America/Los_Angeles:20261202T200000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:cc7d94b5f67670f699a3bd38006e32723e00326a@chamber-events-harvester
 CATEGORIES:Inland Empire Chamber of Commerce
 DESCRIPTION:Organized by: Inland Empire Chamber of Commerce
@@ -401,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:ABAIE Monthly Board of Directors Meeting
 DTSTART;TZID=America/Los_Angeles:20261208T180000
 DTEND;TZID=America/Los_Angeles:20261208T190000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:3f6fdd6ba82c6f1c941443fe5b263b98fddef80e@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
@@ -415,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:JHBC Career & Internship Fair
 DTSTART;TZID=America/Los_Angeles:20270302T120000
 DTEND;TZID=America/Los_Angeles:20270302T150000
-DTSTAMP:20261024T130328Z
+DTSTAMP:20261025T133129Z
 UID:f2e3811a2df57e13709a891e05162468e04621bf@chamber-events-harvester
 CATEGORIES:American Business Association - Inland Empire (ABAIE)
 DESCRIPTION:Organized by: American Business Association - Inland Empire (A
