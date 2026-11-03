@@ -62,3 +62,16 @@ sites:
     # every upcoming event, not just one via a data:text/calendar link
     # (that's still available too, see harvester/parsers/ics_links.py, but
     # this parser gets more/better data from the same page).
+
+  - name: Mission Matters
+    url: https://luma.com/missionmatters
+    parser: jsonld
+    # NOTE (2026-11-03): Luma (luma.com) pages embed a complete schema.org
+    # Event list as JSON-LD - an ItemList whose itemListElement[].item
+    # entries are full Event objects, confirmed to include every upcoming
+    # event (numberOfItems matched the on-page event count exactly, not a
+    # capped preview). No per-site tuning needed.
+
+  - name: Brand Popup
+    url: https://luma.com/brandpopup
+    parser: jsonld

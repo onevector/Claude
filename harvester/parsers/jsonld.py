@@ -39,6 +39,15 @@ def _walk_nodes(data: Any) -> Iterator[dict[str, Any]]:
         if isinstance(data.get("@graph"), list):
             for item in data["@graph"]:
                 yield from _walk_nodes(item)
+        elif isinstance(data.get("itemListElement"), list):
+            # schema.org ItemList (e.g. Luma's "Upcoming Events" list) wraps
+            # each entry as {"@type": "ListItem", "item": {...}} rather than
+            # listing Event nodes directly.
+            for entry in data["itemListElement"]:
+                if isinstance(entry, dict) and "item" in entry:
+                    yield from _walk_nodes(entry["item"])
+                else:
+                    yield from _walk_nodes(entry)
         else:
             yield data
 
@@ -127,6 +136,15 @@ def _location_to_str(location: Any) -> str | None:
                 address.get("addressRegion"),
                 address.get("postalCode"),
             ]
+            # Drop a streetAddress that just repeats the venue name (e.g.
+            # Luma sets both location.name and address.streetAddress to the
+            # same venue name when there's no separate street address).
+            if (
+                isinstance(addr_parts[0], str)
+                and isinstance(name, str)
+                and addr_parts[0].strip().lower() == name.strip().lower()
+            ):
+                addr_parts[0] = None
             addr_str = ", ".join(p for p in addr_parts if isinstance(p, str) and p.strip())
             if addr_str:
                 parts.append(addr_str)

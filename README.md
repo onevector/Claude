@@ -20,6 +20,8 @@ Sites currently configured (see `config/sites.yaml`):
 | Ontario Chamber of Commerce (ChamberMaster) | ✅ working |
 | American Business Association - Inland Empire (ABAIE) | ✅ working |
 | Inland Empire Chamber of Commerce | ✅ working (partial — see note below) |
+| Mission Matters (Luma) | ✅ working |
+| Brand Popup (Luma) | ✅ working |
 | Irwindale Chamber of Commerce | ❌ not yet — see note below |
 | American Business Association - Los Angeles (ABALA) | ❌ not yet — see note below |
 
@@ -129,6 +131,11 @@ Add calendar &rarr; Subscribe from web &rarr; paste the URL.
   template; `sites.yaml` now points at the new listing URL (`/events`),
   and `harvester/parsers/chambermaster.py` detects and handles both the
   old (Monrovia/Ontario) and new (Glendora) template generations.
+- **Luma (Mission Matters, Brand Popup)**: both are plain `parser: jsonld`
+  — Luma embeds a complete schema.org `ItemList` of `Event` objects
+  (confirmed to include every upcoming event, not a capped preview), which
+  needed one small parser addition to follow `itemListElement[].item`
+  (schema.org's standard list-wrapping shape), not a site-specific parser.
 - **Adding more sites**: add an entry to `config/sites.yaml`. Try
   `parser: jsonld` first; if the harvester logs "No events found" for it,
   inspect the page for an events list and add a `css:` selector block
