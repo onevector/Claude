@@ -19,6 +19,15 @@ sites:
     # GrowthZone migrated this site to a new card-based template. Updated
     # to the new listing URL; harvester/parsers/chambermaster.py handles
     # both templates automatically based on which markup it finds.
+    # NOTE (2026-11-03): now returns 403 on every path, every User-Agent,
+    # not rate-limit-related (persists after a delay) - response headers
+    # show Cf-Mitigated: challenge and a Cloudflare "Just a moment..."
+    # interstitial, i.e. this site has turned on an active anti-bot JS
+    # challenge. That's a deliberate access control, not a scraping bug -
+    # do not attempt to defeat it (e.g. via headless-browser rendering).
+    # Left configured so it's visible in logs; a real fix here would be
+    # asking the chamber for an alternate feed/API, not working around
+    # their bot protection.
 
   - name: Monrovia Chamber of Commerce
     url: https://www.monroviacc.com/events/calendar/

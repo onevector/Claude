@@ -15,7 +15,7 @@ Sites currently configured (see `config/sites.yaml`):
 
 | Site | Status |
 |---|---|
-| Glendora Chamber of Commerce | ✅ working |
+| Glendora Chamber of Commerce | ❌ blocked — see note below |
 | Monrovia Chamber of Commerce | ✅ working |
 | Ontario Chamber of Commerce (ChamberMaster) | ✅ working |
 | American Business Association - Inland Empire (ABAIE) | ✅ working |
@@ -128,9 +128,16 @@ Add calendar &rarr; Subscribe from web &rarr; paste the URL.
   embed that pattern without a richer listing alongside it).
 - **Glendora Chamber**: their old calendar URL (`/events/calendarcatgid/6`)
   started 404ing after a GrowthZone platform migration to a new card-based
-  template; `sites.yaml` now points at the new listing URL (`/events`),
+  template; `sites.yaml` was updated to the new listing URL (`/events`),
   and `harvester/parsers/chambermaster.py` detects and handles both the
   old (Monrovia/Ontario) and new (Glendora) template generations.
+  **As of 2026-11-03 the site itself returns 403 on every path**, behind a
+  Cloudflare JS challenge (`Cf-Mitigated: challenge`, "Just a moment..."
+  interstitial) — confirmed deliberate (not rate-limiting: same result
+  across every User-Agent, every path, and after a delay). This is an
+  active anti-bot measure, not a scraping bug, and isn't something to
+  work around; left configured so it stays visible in logs. A real fix
+  would mean asking the chamber for an alternate feed/API.
 - **Luma (Mission Matters, Brand Popup)**: both are plain `parser: jsonld`
   — Luma embeds a complete schema.org `ItemList` of `Event` objects
   (confirmed to include every upcoming event, not a capped preview), which
